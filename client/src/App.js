@@ -1,10 +1,23 @@
 import io from 'socket.io-client'
+import { createContext, useMemo } from 'react'
+
+import Header from './components/Main/Header'
+
+const socket = io.connect('http://localhost:3001')
+const Context = createContext({})
 
 function App() {
+
+  const memo = useMemo(() => ({
+    socket
+  }), [socket])
+
   return (
-    <div className="App">
-      <h1>Header </h1>
-    </div>
+    <Context.Provider value={memo}>
+      <div className="App">
+        <Header />
+      </div>
+    </Context.Provider>
   );
 }
 
