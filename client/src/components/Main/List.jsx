@@ -5,30 +5,37 @@ const List = () => {
 
     const { items } = useContext(Context)
 
+    const indexes = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split("")
+
     return (
-        <table className="w-[95vw] mx-auto mb-5">
-            <thead>
-                <tr className="bg-gray-300">
-                    <th>Name</th>
-                    <th>Serving Size</th>
-                    <th>Weight</th>
-                    <th>Calories (kcal)</th>
-                    <th>Reference</th>
-                </tr>
-            </thead>
-            <tbody className="bg-gray-100">
-                {items && items.length > 0 ?
-                    items.map((item, i) =>
-                        <tr key={i}>
-                            <td>{item.name}</td>
-                            <td>{item.serving_size}</td>
-                            <td>{item.weight}</td>
-                            <td>{item.calories}</td>
-                            <td>{item.reference}</td>
-                        </tr>
+        <div className="w-[90vw] sm:w-[70vw] mx-auto text-center space-y-5">
+            <div className="sticky top-0 sm:flex sm:flex-wrap space-x-1 justify-center bg-slate-800 text-white max-w-full overflow-auto">
+                {indexes.map((index, i) => {
+                    return (
+                        <a
+                            key={i}
+                            href={`#${index}`}
+                            className="p-2"
+                        >
+                            {index}
+                        </a>
                     )
-                    : ""}
-            </tbody>
-        </table>
+                })}
+            </div>
+            {items && items.length > 0 ?
+                indexes.map((index, i) => {
+                    return (
+                        <div id={index} key={i} className="space-y-3 pt-[50px]">
+                            <h1 className="bg-gray-400 text-white font-bold text-2xl px-4 py-2">
+                                {index}
+                            </h1>
+                            {items.map((item, i) =>
+                                item.name.charAt(0).toUpperCase() === index ? <div key={i}>{item.name}</div> : ""
+                            )}
+                        </div>
+                    )
+                })
+                : ""}
+        </div>
     )
 }; export default List

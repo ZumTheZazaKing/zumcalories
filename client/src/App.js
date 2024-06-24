@@ -2,6 +2,7 @@ import io from 'socket.io-client'
 import { createContext, useMemo, useState, useEffect } from 'react'
 
 import Header from './components/Main/Header'
+import Searchbar from './components/Main/Searchbar'
 import List from './components/Main/List'
 
 const socket = io.connect('http://localhost:3001')
@@ -28,8 +29,9 @@ function App() {
 
   return (
     <Context.Provider value={memo}>
-      <div className="App">
+      <div className="App space-y-5">
         <Header />
+        <Searchbar />
         <List />
       </div>
     </Context.Provider>
