@@ -1,5 +1,7 @@
 import io from 'socket.io-client'
 import { createContext, useMemo, useState, useEffect } from 'react'
+import Swal from 'sweetalert2'
+import withReactContent from 'sweetalert2-react-content'
 
 import Header from './components/Main/Header'
 import Searchbar from './components/Main/Searchbar'
@@ -7,6 +9,7 @@ import List from './components/Main/List'
 
 const socket = io.connect('http://localhost:3001')
 export const Context = createContext({})
+export const ReactSwal = withReactContent(Swal)
 
 function App() {
 
