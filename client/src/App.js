@@ -11,6 +11,7 @@ export const Context = createContext({})
 function App() {
 
   const [items, setItems] = useState([])
+  const [searchQuery, setSearchQuery] = useState("")
 
   useEffect(() => {
     socket.emit("get_data")
@@ -24,8 +25,9 @@ function App() {
 
   const memo = useMemo(() => ({
     socket,
-    items, setItems
-  }), [socket, items])
+    items, setItems,
+    searchQuery, setSearchQuery
+  }), [socket, items, searchQuery])
 
   return (
     <Context.Provider value={memo}>
