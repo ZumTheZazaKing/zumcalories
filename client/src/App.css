@@ -10,5 +10,9 @@
 
 body{
   background-image: url('./assets/bg.png');
-  
+}
+
+table,th,td{
+  border: 1px solid black;
+  padding: 10px 5px;
 }

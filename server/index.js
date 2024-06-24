@@ -20,7 +20,7 @@ const io = new Server(server, {
 
 io.on("connection", socket => {
     socket.on("get_data", () => {
-        var data = JSON.parse(fs.readFileSync(FOOD_DATA_FILE_PATH).toString());
+        let data = JSON.parse(fs.readFileSync(FOOD_DATA_FILE_PATH).toString());
         socket.emit("load_data", data)
     })
 })
