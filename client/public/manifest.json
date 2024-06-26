@@ -1,0 +1,15 @@
+{
+    "name": "ZumCalories",
+    "short_name": "ZumCalories",
+    "start_url": "index.html",
+    "icons": [
+        {
+            "src": "favicon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#1e293b",
+    "background_color": "#334155",
+    "display": "standalone"
+}
