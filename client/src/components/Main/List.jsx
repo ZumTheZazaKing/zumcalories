@@ -17,7 +17,7 @@ const List = () => {
     }
 
     return (
-        <div className="w-[90vw] sm:w-[70vw] mx-auto text-center space-y-5">
+        <div className="w-[90vw] sm:w-[70vw] mx-auto text-center">
             {searchQuery.trim() === "" ?
                 <div className="sticky top-0 sm:flex sm:flex-wrap space-x-1 justify-center bg-slate-800 text-white max-w-full overflow-auto">
                     {indexes.map((index, i) => {

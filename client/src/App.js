@@ -6,6 +6,7 @@ import withReactContent from 'sweetalert2-react-content'
 import Header from './components/Main/Header'
 import Searchbar from './components/Main/Searchbar'
 import List from './components/Main/List'
+import BackToTop from './components/BackToTop'
 
 const socket = io.connect('http://localhost:3001')
 export const Context = createContext({})
@@ -38,6 +39,7 @@ function App() {
         <Header />
         <Searchbar />
         <List />
+        <BackToTop />
       </div>
     </Context.Provider>
   );
