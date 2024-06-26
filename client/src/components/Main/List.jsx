@@ -15,6 +15,7 @@ const List = () => {
             html: <FoodItem data={data} />
         })
     }
+    //${item.name.toLowerCase().includes(searchQuery.trim("").toLowerCase()) ? "" : "hidden"}
 
     return (
         <div className="w-[90vw] sm:w-[70vw] mx-auto text-center">
@@ -46,7 +47,7 @@ const List = () => {
                                 item.name.charAt(0).toUpperCase() === index ?
                                     <div
                                         onClick={() => checkFoodItem(item)}
-                                        className={`${item.name.toLowerCase().includes(searchQuery.trim("").toLowerCase()) ? "" : "hidden"} cursor-pointer hover:underline transition-all`}
+                                        className={`cursor-pointer hover:underline transition-all`}
                                         key={i}>
                                         {item.name}
                                     </div>

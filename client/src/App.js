@@ -14,6 +14,7 @@ export const ReactSwal = withReactContent(Swal)
 
 function App() {
 
+  const [defaultItems, setDefaultItems] = useState([])
   const [items, setItems] = useState([])
   const [searchQuery, setSearchQuery] = useState("")
 
@@ -22,8 +23,18 @@ function App() {
   }, [])
 
   useEffect(() => {
+    if (searchQuery.trim() === "") return
+    let temp = [...defaultItems]
+    temp = temp.filter(food => {
+      return food.name.toLowerCase().includes(searchQuery.trim("").toLowerCase())
+    })
+    setItems([...temp])
+  }, [searchQuery])
+
+  useEffect(() => {
     socket.on("load_data", data => {
       setItems(data)
+      setDefaultItems(data)
     })
   }, [socket])
 
