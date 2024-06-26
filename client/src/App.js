@@ -8,7 +8,7 @@ import Searchbar from './components/Main/Searchbar'
 import List from './components/Main/List'
 import BackToTop from './components/BackToTop'
 
-const socket = io.connect('http://localhost:3001')
+const socket = io.connect('https://zumcalories.onrender.com')
 export const Context = createContext({})
 export const ReactSwal = withReactContent(Swal)
 
