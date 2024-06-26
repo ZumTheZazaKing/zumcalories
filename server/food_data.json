@@ -17379,5 +17379,6410 @@
     "weight": "80g",
     "calories": 304,
     "reference": "NP"
+  },
+  {
+    "name": "Bihun bandung",
+    "serving_size": "1 mangkuk",
+    "weight": 450,
+    "calories": 490,
+    "reference": "NC"
+  },
+  {
+    "name": "Bihun bandung + sayur + 1 biji telur rebus",
+    "serving_size": "1 mangkuk",
+    "weight": 250,
+    "calories": 350,
+    "reference": "NP"
+  },
+  {
+    "name": "Bihun goring",
+    "serving_size": "2 senduk",
+    "weight": 170,
+    "calories": 290,
+    "reference": "NC"
+  },
+  {
+    "name": "Bihun goreng + sayur + fish cake",
+    "serving_size": "2 senduk",
+    "weight": 140,
+    "calories": 240,
+    "reference": "NP"
+  },
+  {
+    "name": "Bihun goreng ala Cina",
+    "serving_size": "2 senduk",
+    "weight": 140,
+    "calories": 220,
+    "reference": "NP"
+  },
+  {
+    "name": "Bihun goreng putih",
+    "serving_size": "2 senduk",
+    "weight": 120,
+    "calories": 200,
+    "reference": "NP"
+  },
+  {
+    "name": "Bihun goreng Singapura",
+    "serving_size": "2 senduk",
+    "weight": 120,
+    "calories": 150,
+    "reference": "NP"
+  },
+  {
+    "name": "Bihun hailam + sayur + ayam",
+    "serving_size": "1 mangkuk",
+    "weight": 250,
+    "calories": 350,
+    "reference": "NP"
+  },
+  {
+    "name": "Bihun kantonis + sayur + ayam",
+    "serving_size": "1 pinggan",
+    "weight": 280,
+    "calories": 430,
+    "reference": "NP"
+  },
+  {
+    "name": "Bihun kari",
+    "serving_size": "1 mangkuk",
+    "weight": 250,
+    "calories": 325,
+    "reference": "NP"
+  },
+  {
+    "name": "Bihun kari + sayur + ayam",
+    "serving_size": "1 mangkuk",
+    "weight": 250,
+    "calories": 330,
+    "reference": "NP"
+  },
+  {
+    "name": "Bihun latna + sayur + ayam",
+    "serving_size": "1 mangkuk",
+    "weight": 250,
+    "calories": 380,
+    "reference": "NP"
+  },
+  {
+    "name": "Bihun rebus + sayur + 1⁄2 biji telur rebus",
+    "serving_size": "1 mangkuk",
+    "weight": 250,
+    "calories": 310,
+    "reference": "NP"
+  },
+  {
+    "name": "Bihun Soto",
+    "serving_size": "1 mangkuk cina",
+    "weight": 130,
+    "calories": 50,
+    "reference": "NP"
+  },
+  {
+    "name": "Bihun sup",
+    "serving_size": "1 mangkuk",
+    "weight": 200,
+    "calories": 200,
+    "reference": "NP"
+  },
+  {
+    "name": "Bihun sup + sayur + ayam",
+    "serving_size": "1 mangkuk",
+    "weight": 200,
+    "calories": 200,
+    "reference": "NP"
+  },
+  {
+    "name": "Bihun tom yam + sayur + ayam",
+    "serving_size": "1 mangkuk",
+    "weight": 250,
+    "calories": 230,
+    "reference": "NP"
+  },
+  {
+    "name": "Bubur ayam",
+    "serving_size": "1 mangkuk",
+    "weight": 200,
+    "calories": 70,
+    "reference": "NP"
+  },
+  {
+    "name": "Bubur daging",
+    "serving_size": "1 mangkuk",
+    "weight": 200,
+    "calories": 120,
+    "reference": "NP"
+  },
+  {
+    "name": "Bubur ikan",
+    "serving_size": "1 mangkuk",
+    "weight": 200,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Bubur nasi",
+    "serving_size": "1 cawan",
+    "weight": 170,
+    "calories": 70,
+    "reference": "NC"
+  },
+  {
+    "name": "Bubur nasi + sayur campur + bawang goreng\n+ ayam",
+    "serving_size": "1 mangkuk",
+    "weight": 150,
+    "calories": 140,
+    "reference": "NP"
+  },
+  {
+    "name": "Chap chye",
+    "serving_size": "1 senduk",
+    "weight": 60,
+    "calories": 50,
+    "reference": "NP"
+  },
+  {
+    "name": "Char kuetiau",
+    "serving_size": "2 senduk",
+    "weight": 120,
+    "calories": 230,
+    "reference": "NP"
+  },
+  {
+    "name": "Ketupat nasi",
+    "serving_size": "5 potong",
+    "weight": 200,
+    "calories": 215,
+    "reference": "NP"
+  },
+  {
+    "name": "Kuetiau bandung",
+    "serving_size": "1 mangkuk kecil",
+    "weight": 450,
+    "calories": 540,
+    "reference": "NC"
+  },
+  {
+    "name": "Kuetiau bandung + sayur + 1 biji telur rebus",
+    "serving_size": "1 mangkuk kecil",
+    "weight": 200,
+    "calories": 300,
+    "reference": "NP"
+  },
+  {
+    "name": "Kuetiau goreng + sayur + fish cake",
+    "serving_size": "2 senduk",
+    "weight": 120,
+    "calories": 250,
+    "reference": "NP"
+  },
+  {
+    "name": "Kuetiau goreng",
+    "serving_size": "2 senduk",
+    "weight": 170,
+    "calories": 320,
+    "reference": "NC"
+  },
+  {
+    "name": "Kuetiau hailam + sayur + ayam",
+    "serving_size": "1 mangkuk",
+    "weight": 250,
+    "calories": 380,
+    "reference": "NP"
+  },
+  {
+    "name": "Kuetiau kantonis + sayur + ayam",
+    "serving_size": "1 pinggan",
+    "weight": 280,
+    "calories": 410,
+    "reference": "NP"
+  },
+  {
+    "name": "Kuetiau kari",
+    "serving_size": "1 mangkuk",
+    "weight": 250,
+    "calories": 315,
+    "reference": "NP"
+  },
+  {
+    "name": "Kuetiau kari + sayur + ayam",
+    "serving_size": "1 mangkuk",
+    "weight": 250,
+    "calories": 320,
+    "reference": "NP"
+  },
+  {
+    "name": "Kuetiau latna + sayur + ayam",
+    "serving_size": "1 mangkuk",
+    "weight": 250,
+    "calories": 320,
+    "reference": "NP"
+  },
+  {
+    "name": "Kuetiau sup",
+    "serving_size": "1 mangkuk",
+    "weight": 250,
+    "calories": 140,
+    "reference": "NP"
+  },
+  {
+    "name": "Kuetiau sup + sayur + ayam",
+    "serving_size": "1 mangkuk",
+    "weight": 250,
+    "calories": 140,
+    "reference": "NP"
+  },
+  {
+    "name": "Kuetiau tom yam + sayur + ayam",
+    "serving_size": "1 mangkuk",
+    "weight": 250,
+    "calories": 210,
+    "reference": "NP"
+  },
+  {
+    "name": "Laksa + sayur + 1⁄2 biji telur rebus",
+    "serving_size": "1 mangkuk",
+    "weight": 250,
+    "calories": 240,
+    "reference": "NP"
+  },
+  {
+    "name": "Laksa Johor",
+    "serving_size": "1 mangkuk",
+    "weight": 250,
+    "calories": 330,
+    "reference": "NP"
+  },
+  {
+    "name": "Laksa Sarawak",
+    "serving_size": "1 mangkuk",
+    "weight": 250,
+    "calories": 320,
+    "reference": "NP"
+  },
+  {
+    "name": "Makanan",
+    "serving_size": "Hidangan",
+    "weight": "Berat (g)",
+    "calories": "Kalori (kcal)",
+    "reference": "Rujukan"
+  },
+  {
+    "name": "Lontong + nasi impit",
+    "serving_size": "1 mangkuk",
+    "weight": 300,
+    "calories": 340,
+    "reference": "NP"
+  },
+  {
+    "name": "Makaroni ayam",
+    "serving_size": "1 senduk",
+    "weight": 100,
+    "calories": 150,
+    "reference": "NP"
+  },
+  {
+    "name": "Makaroni bakar",
+    "serving_size": "2 senduk",
+    "weight": 90,
+    "calories": 150,
+    "reference": "NP"
+  },
+  {
+    "name": "Makaroni goring",
+    "serving_size": "2 senduk",
+    "weight": 90,
+    "calories": 300,
+    "reference": "NP"
+  },
+  {
+    "name": "Mi bandung",
+    "serving_size": "1 mangkuk",
+    "weight": 450,
+    "calories": 550,
+    "reference": "NC"
+  },
+  {
+    "name": "Mi bandung + sayur + ayam",
+    "serving_size": "1 mangkuk",
+    "weight": 250,
+    "calories": 310,
+    "reference": "NP"
+  },
+  {
+    "name": "Mi goreng",
+    "serving_size": "3 senduk",
+    "weight": 170,
+    "calories": 280,
+    "reference": "NC"
+  },
+  {
+    "name": "Mi goreng + sayur + fish cake",
+    "serving_size": "3 senduk",
+    "weight": 150,
+    "calories": 250,
+    "reference": "NP"
+  },
+  {
+    "name": "Mi goreng mamak",
+    "serving_size": "3 senduk",
+    "weight": 150,
+    "calories": 270,
+    "reference": "NP"
+  },
+  {
+    "name": "Mi hailam + sayur + ayam",
+    "serving_size": "1 mangkuk",
+    "weight": 250,
+    "calories": 340,
+    "reference": "NP"
+  },
+  {
+    "name": "Mi hailam berkuah",
+    "serving_size": "1 mangkuk",
+    "weight": 250,
+    "calories": 340,
+    "reference": "NP"
+  },
+  {
+    "name": "Mi kantonis + sayur + ayam",
+    "serving_size": "1 mangkuk",
+    "weight": 280,
+    "calories": 410,
+    "reference": "NP"
+  },
+  {
+    "name": "Mi kari",
+    "serving_size": "1 mangkuk",
+    "weight": 410,
+    "calories": 530,
+    "reference": "NC"
+  },
+  {
+    "name": "Mi kari + sayur + ayam",
+    "serving_size": "1 mangkuk",
+    "weight": 250,
+    "calories": 320,
+    "reference": "NP"
+  },
+  {
+    "name": "Mi kungfu",
+    "serving_size": "1 mangkuk",
+    "weight": 250,
+    "calories": 220,
+    "reference": "NP"
+  },
+  {
+    "name": "Mi latna + sayur + ayam",
+    "serving_size": "1 mangkuk",
+    "weight": 250,
+    "calories": 400,
+    "reference": "NP"
+  },
+  {
+    "name": "Mi rebus",
+    "serving_size": "1 mangkuk",
+    "weight": 250,
+    "calories": 250,
+    "reference": "NP"
+  },
+  {
+    "name": "Mi rebus + sayur + 1⁄2 biji telur rebus",
+    "serving_size": "1 mangkuk",
+    "weight": 250,
+    "calories": 170,
+    "reference": "NP"
+  },
+  {
+    "name": "Mi siam",
+    "serving_size": "2 senduk",
+    "weight": 100,
+    "calories": 120,
+    "reference": "NP"
+  },
+  {
+    "name": "Mi sup",
+    "serving_size": "1 mangkuk",
+    "weight": 560,
+    "calories": 380,
+    "reference": "NC"
+  },
+  {
+    "name": "Mi sup + sayur + ayam",
+    "serving_size": "1 mangkuk",
+    "weight": 250,
+    "calories": 170,
+    "reference": "NP"
+  },
+  {
+    "name": "Mi tom yam + sayur + ayam",
+    "serving_size": "1 mangkuk",
+    "weight": 250,
+    "calories": 130,
+    "reference": "NP"
+  },
+  {
+    "name": "Mi udang sup",
+    "serving_size": "1 mangkuk",
+    "weight": 480,
+    "calories": 250,
+    "reference": "NP"
+  },
+  {
+    "name": "Mi wantan sup",
+    "serving_size": "1 mangkuk",
+    "weight": 250,
+    "calories": 125,
+    "reference": "NP"
+  },
+  {
+    "name": "Nasi ambang",
+    "serving_size": "1 hidangan",
+    "weight": 250,
+    "calories": 325,
+    "reference": "NP"
+  },
+  {
+    "name": "Nasi ayam (nasi sahaja)",
+    "serving_size": "2 senduk",
+    "weight": 100,
+    "calories": 160,
+    "reference": "NP"
+  },
+  {
+    "name": "Nasi ayam (set)",
+    "serving_size": "1 pinggan",
+    "weight": 250,
+    "calories": 280,
+    "reference": "NC"
+  },
+  {
+    "name": "Nasi ayam + ayam + sayur + sos cili",
+    "serving_size": "1 pinggan",
+    "weight": 250,
+    "calories": 450,
+    "reference": "NP"
+  },
+  {
+    "name": "Nasi beriani (nasi sahaja)",
+    "serving_size": "1 cawan",
+    "weight": 110,
+    "calories": 200,
+    "reference": "NC"
+  },
+  {
+    "name": "Nasi briyani (set)",
+    "serving_size": "1 pinggan",
+    "weight": 250,
+    "calories": 460,
+    "reference": "Atlas"
+  },
+  {
+    "name": "Nasi briyani + ayam goreng berempah\n+ sayur dal",
+    "serving_size": "1 pinggan",
+    "weight": 250,
+    "calories": 450,
+    "reference": "NP"
+  },
+  {
+    "name": "Nasi dagang",
+    "serving_size": "1 pinggan",
+    "weight": 250,
+    "calories": 510,
+    "reference": "NP"
+  },
+  {
+    "name": "Nasi goreng",
+    "serving_size": "3 senduk",
+    "weight": 150,
+    "calories": 290,
+    "reference": "NP"
+  },
+  {
+    "name": "Nasi goreng (biasa) + sayur + fish cake",
+    "serving_size": "3 senduk",
+    "weight": 150,
+    "calories": 290,
+    "reference": "NP"
+  },
+  {
+    "name": "Nasi goreng ayam + cendawan",
+    "serving_size": "1 set",
+    "weight": 240,
+    "calories": 450,
+    "reference": "NP"
+  },
+  {
+    "name": "Nasi goreng cendawan",
+    "serving_size": "3 senduk",
+    "weight": 150,
+    "calories": 290,
+    "reference": "NP"
+  },
+  {
+    "name": "Nasi goreng cina",
+    "serving_size": "3 senduk",
+    "weight": 150,
+    "calories": 320,
+    "reference": "NP"
+  },
+  {
+    "name": "Nasi goreng cina + sayur + telur",
+    "serving_size": "3 senduk",
+    "weight": 150,
+    "calories": 320,
+    "reference": "NP"
+  },
+  {
+    "name": "Nasi goreng gajus",
+    "serving_size": "3 senduk",
+    "weight": 150,
+    "calories": 330,
+    "reference": "NP"
+  },
+  {
+    "name": "Nasi goreng ikan masin",
+    "serving_size": "3 senduk",
+    "weight": 150,
+    "calories": 280,
+    "reference": "NP"
+  },
+  {
+    "name": "Nasi goreng ikan masin + sayur + ikan masin",
+    "serving_size": "3 senduk",
+    "weight": 150,
+    "calories": 280,
+    "reference": "NP"
+  },
+  {
+    "name": "Nasi goreng kampung",
+    "serving_size": "3 senduk",
+    "weight": 150,
+    "calories": 270,
+    "reference": "NP"
+  },
+  {
+    "name": "Nasi goreng kampung  + sayur + fish cake",
+    "serving_size": "3 senduk",
+    "weight": 150,
+    "calories": 290,
+    "reference": "NP"
+  },
+  {
+    "name": "Nasi goreng kerabu",
+    "serving_size": "3 senduk",
+    "weight": 150,
+    "calories": 340,
+    "reference": "NP"
+  },
+  {
+    "name": "Makanan",
+    "serving_size": "Hidangan",
+    "weight": "Berat (g)",
+    "calories": "Kalori (kcal)",
+    "reference": "Rujukan"
+  },
+  {
+    "name": "Nasi goreng paprik",
+    "serving_size": "3 senduk",
+    "weight": 150,
+    "calories": 240,
+    "reference": "NP"
+  },
+  {
+    "name": "Nasi goreng paprik + sayur + ayam",
+    "serving_size": "3 senduk",
+    "weight": 150,
+    "calories": 240,
+    "reference": "NP"
+  },
+  {
+    "name": "Nasi goreng pataya + sayur + ayam +\ntelur dadar",
+    "serving_size": "3 senduk",
+    "weight": 150,
+    "calories": 370,
+    "reference": "NP"
+  },
+  {
+    "name": "Nasi goreng pattaya",
+    "serving_size": "3 senduk",
+    "weight": 150,
+    "calories": 285,
+    "reference": "NP"
+  },
+  {
+    "name": "Nasi goreng udang + sayur",
+    "serving_size": "3 senduk",
+    "weight": 150,
+    "calories": 380,
+    "reference": "NP"
+  },
+  {
+    "name": "Nasi goreng USA",
+    "serving_size": "3 senduk",
+    "weight": 150,
+    "calories": 285,
+    "reference": "NP"
+  },
+  {
+    "name": "Nasi goreng USA + sayur + udang +\nfTE mata",
+    "serving_size": "3 senduk",
+    "weight": 150,
+    "calories": 490,
+    "reference": "NP"
+  },
+  {
+    "name": "Nasi impit",
+    "serving_size": "8 kiub",
+    "weight": 50,
+    "calories": 80,
+    "reference": "Atlas"
+  },
+  {
+    "name": "Nasi kerabu",
+    "serving_size": "1 set",
+    "weight": 250,
+    "calories": 260,
+    "reference": "NP"
+  },
+  {
+    "name": "Nasi Khabsa",
+    "serving_size": "1 cawan",
+    "weight": 110,
+    "calories": 280,
+    "reference": "NP"
+  },
+  {
+    "name": "Nasi lemak (biasa)",
+    "serving_size": "1 set",
+    "weight": 180,
+    "calories": 320,
+    "reference": "NP"
+  },
+  {
+    "name": "Nasi lemak (set)",
+    "serving_size": "1 pinggan",
+    "weight": 200,
+    "calories": 340,
+    "reference": "Atlas"
+  },
+  {
+    "name": "Nasi lemak ayam goreng berempah + timun\n+ sambal",
+    "serving_size": "1 set",
+    "weight": 220,
+    "calories": 490,
+    "reference": "NP"
+  },
+  {
+    "name": "Nasi lemak rendang ayam/ daging + timu\n+ sambal",
+    "serving_size": "1 set",
+    "weight": "",
+    "calories": 420,
+    "reference": "NP"
+  },
+  {
+    "name": "Nasi lemak sambal sotong + timun + sambal",
+    "serving_size": "1 set",
+    "weight": 210,
+    "calories": 410,
+    "reference": "NP"
+  },
+  {
+    "name": "Nasi lemak telur mata kerbau + timun\n+ sambal",
+    "serving_size": "1 set",
+    "weight": 180,
+    "calories": 350,
+    "reference": "NP"
+  },
+  {
+    "name": "Nasi minyak (kosong)",
+    "serving_size": "3 senduk",
+    "weight": 150,
+    "calories": 265,
+    "reference": "NP"
+  },
+  {
+    "name": "Nasi nenas",
+    "serving_size": "3 senduk",
+    "weight": 170,
+    "calories": 160,
+    "reference": "NP"
+  },
+  {
+    "name": "Nasi putih",
+    "serving_size": "2 senduk",
+    "weight": 150,
+    "calories": 200,
+    "reference": "NC"
+  },
+  {
+    "name": "Nasi tomato",
+    "serving_size": "2 senduk",
+    "weight": 100,
+    "calories": 185,
+    "reference": "NP"
+  },
+  {
+    "name": "Pasta",
+    "serving_size": "2 senduk",
+    "weight": 110,
+    "calories": 165,
+    "reference": "NP"
+  },
+  {
+    "name": "Soto",
+    "serving_size": "1 mangkuk",
+    "weight": 250,
+    "calories": 260,
+    "reference": "NP"
+  },
+  {
+    "name": "Soto ayam",
+    "serving_size": "1 mangkuk",
+    "weight": 490,
+    "calories": 510,
+    "reference": "NC"
+  },
+  {
+    "name": "Spagethi dengan keju & sos daging",
+    "serving_size": "1 mangkuk",
+    "weight": 440,
+    "calories": 440,
+    "reference": "NC"
+  },
+  {
+    "name": "Makanan",
+    "serving_size": "Hidangan",
+    "weight": "Berat (g)",
+    "calories": "Kalori (kcal)",
+    "reference": "Rujukan"
+  },
+  {
+    "name": "Ayam gajus",
+    "serving_size": "1 senduk",
+    "weight": 50,
+    "calories": 165,
+    "reference": "NP"
+  },
+  {
+    "name": "Ayam goreng",
+    "serving_size": "1 ketul",
+    "weight": 120,
+    "calories": 270,
+    "reference": "NC."
+  },
+  {
+    "name": "Ayam goreng berempah",
+    "serving_size": "1 ketul",
+    "weight": 90,
+    "calories": 200,
+    "reference": "NP"
+  },
+  {
+    "name": "Ayam goreng KFC",
+    "serving_size": "1 ketul(peha)",
+    "weight": 65,
+    "calories": 110,
+    "reference": "NC"
+  },
+  {
+    "name": "",
+    "serving_size": "1 ketul (dada)",
+    "weight": 55,
+    "calories": 160,
+    "reference": ""
+  },
+  {
+    "name": "Ayam goreng madu",
+    "serving_size": "1 ketul",
+    "weight": 90,
+    "calories": 240,
+    "reference": "NP"
+  },
+  {
+    "name": "Ayam masak cili",
+    "serving_size": "1 ketul",
+    "weight": 90,
+    "calories": 140,
+    "reference": "NP"
+  },
+  {
+    "name": "Ayam masak halia",
+    "serving_size": "1 senduk",
+    "weight": 50,
+    "calories": 60,
+    "reference": "NP"
+  },
+  {
+    "name": "Ayam masak kicap",
+    "serving_size": "1 ketul",
+    "weight": 90,
+    "calories": 200,
+    "reference": "NP"
+  },
+  {
+    "name": "Ayam masak kunyit",
+    "serving_size": "1 senduk",
+    "weight": 50,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Ayam masak kurma",
+    "serving_size": "1 ketul",
+    "weight": 90,
+    "calories": 190,
+    "reference": "NC"
+  },
+  {
+    "name": "Ayam masak kuzi",
+    "serving_size": "1 ketul",
+    "weight": 90,
+    "calories": 180,
+    "reference": "NP"
+  },
+  {
+    "name": "Ayam masak lemak cili api",
+    "serving_size": "1 ketul",
+    "weight": 90,
+    "calories": 150,
+    "reference": "NP"
+  },
+  {
+    "name": "Ayam masak lemon",
+    "serving_size": "1 ketul",
+    "weight": 90,
+    "calories": 160,
+    "reference": "NP"
+  },
+  {
+    "name": "Makanan",
+    "serving_size": "Hidangan",
+    "weight": "Berat (g)",
+    "calories": "Kalori (kcal)",
+    "reference": "Rujukan"
+  },
+  {
+    "name": "Ayam masak lengkuas",
+    "serving_size": "1 senduk",
+    "weight": 50,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Ayam masak merah",
+    "serving_size": "1 ketul",
+    "weight": 90,
+    "calories": 140,
+    "reference": "NP"
+  },
+  {
+    "name": "Ayam masak nyonya",
+    "serving_size": "1 ketul",
+    "weight": 80,
+    "calories": 140,
+    "reference": "NP"
+  },
+  {
+    "name": "Ayam masak paprik",
+    "serving_size": "1 senduk",
+    "weight": 70,
+    "calories": 70,
+    "reference": "NP"
+  },
+  {
+    "name": "Ayam masak sambal",
+    "serving_size": "1 ketul",
+    "weight": 100,
+    "calories": 180,
+    "reference": "NP"
+  },
+  {
+    "name": "Ayam masak tomato",
+    "serving_size": "1 ketul",
+    "weight": 100,
+    "calories": 150,
+    "reference": "NP"
+  },
+  {
+    "name": "Ayam panggang",
+    "serving_size": "1 ketul",
+    "weight": 90,
+    "calories": 130,
+    "reference": "NP"
+  },
+  {
+    "name": "Ayam panggang (tanpa kulit)",
+    "serving_size": "1 ketul",
+    "weight": 90,
+    "calories": 150,
+    "reference": "NP"
+  },
+  {
+    "name": "Ayam percik",
+    "serving_size": "1 ketul",
+    "weight": 80,
+    "calories": 140,
+    "reference": "NP"
+  },
+  {
+    "name": "Ayam percik Kelantan",
+    "serving_size": "1 ketul",
+    "weight": 80,
+    "calories": 140,
+    "reference": "NP"
+  },
+  {
+    "name": "Ayam seroja",
+    "serving_size": "1 ketul",
+    "weight": 90,
+    "calories": 110,
+    "reference": "NP"
+  },
+  {
+    "name": "Ayam Tandoori",
+    "serving_size": "1 ketul",
+    "weight": 100,
+    "calories": 200,
+    "reference": "NP"
+  },
+  {
+    "name": "Ayam Tandoori (tanpa kulit)",
+    "serving_size": "1 ketul",
+    "weight": 100,
+    "calories": 175,
+    "reference": "NP"
+  },
+  {
+    "name": "Bebola ikan goreng",
+    "serving_size": "1 senduk",
+    "weight": 40,
+    "calories": 105,
+    "reference": "NP"
+  },
+  {
+    "name": "Bebola ikan masak sambal",
+    "serving_size": "1 senduk",
+    "weight": 70,
+    "calories": 110,
+    "reference": "NP"
+  },
+  {
+    "name": "Braised Shark’s Fin Soup with Crabmeat",
+    "serving_size": "1 mangkuk kecil",
+    "weight": 100,
+    "calories": 90,
+    "reference": "NP"
+  },
+  {
+    "name": "Burger daging/ ayam",
+    "serving_size": "1set",
+    "weight": 100,
+    "calories": 240,
+    "reference": "NP"
+  },
+  {
+    "name": "Burger daging/ ayam special",
+    "serving_size": "1 set",
+    "weight": 130,
+    "calories": 290,
+    "reference": "NP"
+  },
+  {
+    "name": "Buttered prawn",
+    "serving_size": "5 ekor",
+    "weight": 100,
+    "calories": 180,
+    "reference": "NP"
+  },
+  {
+    "name": "Chicken boxing",
+    "serving_size": "3 ketul",
+    "weight": 50,
+    "calories": 120,
+    "reference": "NP"
+  },
+  {
+    "name": "Chilli prawn chinese style",
+    "serving_size": "3 ekor",
+    "weight": 60,
+    "calories": 120,
+    "reference": "NP"
+  },
+  {
+    "name": "Crispy Roasted Chicken with BBQ Sauce",
+    "serving_size": "1 ketul",
+    "weight": 90,
+    "calories": 170,
+    "reference": "NP"
+  },
+  {
+    "name": "Daging asam pedas",
+    "serving_size": "2 ketul (saiz\nkotak mancis)",
+    "weight": 80,
+    "calories": 70,
+    "reference": "NP"
+  },
+  {
+    "name": "Daging belada",
+    "serving_size": "2 ketul (saiz\nkotak mancis)",
+    "weight": 80,
+    "calories": 90,
+    "reference": "NP"
+  },
+  {
+    "name": "Daging dendeng",
+    "serving_size": "1 ketul (saiz\nkotak mancis)",
+    "weight": 35,
+    "calories": 125,
+    "reference": "NP"
+  },
+  {
+    "name": "Daging goreng",
+    "serving_size": "1 ketul (saiz\nkotak mancis)",
+    "weight": 40,
+    "calories": 140,
+    "reference": "NC"
+  },
+  {
+    "name": "Daging goreng kunyit",
+    "serving_size": "1 senduk",
+    "weight": 80,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Daging kambing goreng",
+    "serving_size": "2 ketul (saiz\nkotak mancis)",
+    "weight": 80,
+    "calories": 220,
+    "reference": "NP"
+  },
+  {
+    "name": "Daging kambing masak kurma",
+    "serving_size": "1 senduk",
+    "weight": 80,
+    "calories": 120,
+    "reference": "NP"
+  },
+  {
+    "name": "Daging kicap berempah",
+    "serving_size": "1 ketul (saiz\nkotak mancis)",
+    "weight": 60,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Daging lembu goreng",
+    "serving_size": "1 ketul saiz\nkotak mancis)",
+    "weight": 40,
+    "calories": 140,
+    "reference": "NC"
+  },
+  {
+    "name": "Daging lembu masak merah",
+    "serving_size": "1 ketul+4 sudu\nmakan kuah",
+    "weight": 90,
+    "calories": 140,
+    "reference": "NC"
+  },
+  {
+    "name": "Daging masak asam pedas",
+    "serving_size": "1 ketul (saiz\nkotak mancis)",
+    "weight": 40,
+    "calories": 45,
+    "reference": "NP"
+  },
+  {
+    "name": "Daging masak dendeng",
+    "serving_size": "1 senduk",
+    "weight": 60,
+    "calories": 215,
+    "reference": "NP"
+  },
+  {
+    "name": "Daging masak halia",
+    "serving_size": "2 ketul",
+    "weight": 60,
+    "calories": 90,
+    "reference": "NP"
+  },
+  {
+    "name": "Makanan",
+    "serving_size": "Hidangan",
+    "weight": "Berat (g)",
+    "calories": "Kalori (kcal)",
+    "reference": "Rujukan"
+  },
+  {
+    "name": "Daging masak kicap",
+    "serving_size": "1 ketul (saiz\nkotak mancis)",
+    "weight": 60,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Daging masak kurma",
+    "serving_size": "2 ketul (saiz\nkotak mancis)",
+    "weight": 80,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Daging masak lada hitam",
+    "serving_size": "3 ketul",
+    "weight": 90,
+    "calories": 180,
+    "reference": "NP"
+  },
+  {
+    "name": "Daging masak lemak cili api",
+    "serving_size": "1 ketul (saiz\nkotak mancis)",
+    "weight": 42,
+    "calories": 65,
+    "reference": "NP"
+  },
+  {
+    "name": "Daging masak singgang",
+    "serving_size": "3 ketul",
+    "weight": 90,
+    "calories": 100,
+    "reference": "NP"
+  },
+  {
+    "name": "Daging masak taucu",
+    "serving_size": "1 senduk",
+    "weight": 80,
+    "calories": 180,
+    "reference": "NP"
+  },
+  {
+    "name": "Daging merah Ala Thai",
+    "serving_size": "2 keping",
+    "weight": 60,
+    "calories": 100,
+    "reference": "NP"
+  },
+  {
+    "name": "Daging palembang",
+    "serving_size": "1 ketul (saiz\nkotak mancis)",
+    "weight": 30,
+    "calories": 110,
+    "reference": "NP"
+  },
+  {
+    "name": "Daging salai masak lemak",
+    "serving_size": "3 ketul",
+    "weight": 110,
+    "calories": 190,
+    "reference": "NP"
+  },
+  {
+    "name": "Daging tetel masak asam pedas",
+    "serving_size": "3 ketul",
+    "weight": 90,
+    "calories": 160,
+    "reference": "NP"
+  },
+  {
+    "name": "Kari ayam",
+    "serving_size": "1 ketul",
+    "weight": 130,
+    "calories": 200,
+    "reference": "NC"
+  },
+  {
+    "name": "Kari kambing",
+    "serving_size": "2 ketul",
+    "weight": 80,
+    "calories": 140,
+    "reference": "NC"
+  },
+  {
+    "name": "Kari lembu",
+    "serving_size": "2 ketul",
+    "weight": 90,
+    "calories": 130,
+    "reference": "NC"
+  },
+  {
+    "name": "Kari telur",
+    "serving_size": "1⁄2 biji",
+    "weight": 20,
+    "calories": 130,
+    "reference": "NP"
+  },
+  {
+    "name": "Kerabu perut",
+    "serving_size": "1 senduk",
+    "weight": 70,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Kuzee ayam",
+    "serving_size": "1 senduk",
+    "weight": 60,
+    "calories": 145,
+    "reference": "NP"
+  },
+  {
+    "name": "Paru lembu goreng",
+    "serving_size": "1 keping",
+    "weight": 60,
+    "calories": 290,
+    "reference": "NC"
+  },
+  {
+    "name": "Paru masak sambal",
+    "serving_size": "1 senduk",
+    "weight": 70,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Perut lembu masak lemak",
+    "serving_size": "2 keping",
+    "weight": 80,
+    "calories": 120,
+    "reference": "NC"
+  },
+  {
+    "name": "Puyuh masak sambal",
+    "serving_size": "1 ekor",
+    "weight": 100,
+    "calories": 145,
+    "reference": "NP"
+  },
+  {
+    "name": "Rendang ayam",
+    "serving_size": "1 senduk",
+    "weight": 50,
+    "calories": 100,
+    "reference": "NP"
+  },
+  {
+    "name": "Rendang daging lembu",
+    "serving_size": "2 keping",
+    "weight": 50,
+    "calories": 130,
+    "reference": "NC"
+  },
+  {
+    "name": "Rendang hati ayam",
+    "serving_size": "1 ketul",
+    "weight": 50,
+    "calories": 140,
+    "reference": "NC"
+  },
+  {
+    "name": "Rendang hati lembu",
+    "serving_size": "1 keping",
+    "weight": 40,
+    "calories": 100,
+    "reference": "NC"
+  },
+  {
+    "name": "Rendang limpa lembu",
+    "serving_size": "1 keping",
+    "weight": 40,
+    "calories": 90,
+    "reference": "NC"
+  },
+  {
+    "name": "Sate ayam",
+    "serving_size": "5 cucuk",
+    "weight": 80,
+    "calories": 200,
+    "reference": "NC"
+  },
+  {
+    "name": "Sate daging lembu",
+    "serving_size": "5 cucuk",
+    "weight": 80,
+    "calories": 190,
+    "reference": "NC"
+  },
+  {
+    "name": "Sate perut lembu",
+    "serving_size": "1 cucuk",
+    "weight": 20,
+    "calories": 40,
+    "reference": "NC"
+  },
+  {
+    "name": "Siput masak lemak",
+    "serving_size": "1 senduk",
+    "weight": 55,
+    "calories": 60,
+    "reference": "NP"
+  },
+  {
+    "name": "Sosej",
+    "serving_size": "1 ketul",
+    "weight": 30,
+    "calories": 100,
+    "reference": "Atlas"
+  },
+  {
+    "name": "Sosej + roti bakar + scramble egg",
+    "serving_size": "1 set",
+    "weight": 160,
+    "calories": 310,
+    "reference": "NP"
+  },
+  {
+    "name": "Sosej koktail",
+    "serving_size": "2 ketul",
+    "weight": 33,
+    "calories": 105,
+    "reference": "NP"
+  },
+  {
+    "name": "Soto ayam",
+    "serving_size": "1 mangkuk",
+    "weight": 490,
+    "calories": 510,
+    "reference": "NC"
+  },
+  {
+    "name": "Stir fried boneless chicken with cashew nuts &\nsesame seeds",
+    "serving_size": "1 ketul",
+    "weight": 50,
+    "calories": 140,
+    "reference": "NP"
+  },
+  {
+    "name": "Stir fried chicken with dry chilli",
+    "serving_size": "1 ketul",
+    "weight": 90,
+    "calories": 150,
+    "reference": "NP"
+  },
+  {
+    "name": "Stir fry chicken with celery",
+    "serving_size": "1 senduk",
+    "weight": 60,
+    "calories": 125,
+    "reference": "NP"
+  },
+  {
+    "name": "Sup ayam",
+    "serving_size": "1 mangkuk kecil",
+    "weight": 150,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Sup daging",
+    "serving_size": "1 mangkuk kecil",
+    "weight": 150,
+    "calories": 90,
+    "reference": "NP"
+  },
+  {
+    "name": "Sup ekor",
+    "serving_size": "1 mangkuk kecil",
+    "weight": 150,
+    "calories": 120,
+    "reference": "NP"
+  },
+  {
+    "name": "Sup tomyam kurang pedas",
+    "serving_size": "1 mangkuk kecil",
+    "weight": 150,
+    "calories": 90,
+    "reference": "NP"
+  },
+  {
+    "name": "Makanan",
+    "serving_size": "Hidangan",
+    "weight": "Berat (g)",
+    "calories": "Kalori (kcal)",
+    "reference": "Rujukan"
+  },
+  {
+    "name": "Telur 1⁄2 masak",
+    "serving_size": "1 biji",
+    "weight": 50,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Telur asin",
+    "serving_size": "1⁄2 biji",
+    "weight": 50,
+    "calories": 50,
+    "reference": "NC"
+  },
+  {
+    "name": "Telur dadar",
+    "serving_size": "1 potong",
+    "weight": 45,
+    "calories": 100,
+    "reference": "NP"
+  },
+  {
+    "name": "Telur hancur",
+    "serving_size": "2 sudu makan",
+    "weight": 40,
+    "calories": 50,
+    "reference": "NP"
+  },
+  {
+    "name": "Telur mata kerbau",
+    "serving_size": "1 biji",
+    "weight": 54,
+    "calories": 110,
+    "reference": "NP"
+  },
+  {
+    "name": "Telur rebus",
+    "serving_size": "1 biji",
+    "weight": 50,
+    "calories": 75,
+    "reference": "NP"
+  },
+  {
+    "name": "Telur setengah masak",
+    "serving_size": "1 biji",
+    "weight": 50,
+    "calories": 75,
+    "reference": "NP"
+  },
+  {
+    "name": "Tomyam ayam",
+    "serving_size": "1 mangkuk kecil",
+    "weight": 150,
+    "calories": 75,
+    "reference": "NP"
+  },
+  {
+    "name": "Tulang gulai nangka",
+    "serving_size": "1 senduk",
+    "weight": 40,
+    "calories": 110,
+    "reference": "NP"
+  },
+  {
+    "name": "Makanan",
+    "serving_size": "Hidangan",
+    "weight": "Berat (g)",
+    "calories": "Kalori (kcal)",
+    "reference": "Rujukan"
+  },
+  {
+    "name": "Ikan acar",
+    "serving_size": "1 ekor",
+    "weight": 90,
+    "calories": 155,
+    "reference": "NP"
+  },
+  {
+    "name": "Ikan bawal hitam goreng",
+    "serving_size": "1 ekor",
+    "weight": 100,
+    "calories": 150,
+    "reference": "NC."
+  },
+  {
+    "name": "Ikan bawal hitam goreng berlada",
+    "serving_size": "1 ekor\nsederhana",
+    "weight": 100,
+    "calories": 170,
+    "reference": "NC."
+  },
+  {
+    "name": "Ikan bawal hitam masak 3 rasa",
+    "serving_size": "1 ekor",
+    "weight": 100,
+    "calories": 210,
+    "reference": "NP"
+  },
+  {
+    "name": "Ikan bawal putih goreng",
+    "serving_size": "1 ekor",
+    "weight": 80,
+    "calories": 190,
+    "reference": "NP"
+  },
+  {
+    "name": "Ikan cencaru goreng belada",
+    "serving_size": "2 potong",
+    "weight": 150,
+    "calories": 200,
+    "reference": "NP"
+  },
+  {
+    "name": "Ikan cencaru kukus",
+    "serving_size": "1 ekor",
+    "weight": 100,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Ikan cencaru masak cuka",
+    "serving_size": "1 ekor",
+    "weight": 150,
+    "calories": 270,
+    "reference": "Atlas"
+  },
+  {
+    "name": "Ikan cencaru sumbat",
+    "serving_size": "1 ekor",
+    "weight": 100,
+    "calories": 200,
+    "reference": "Atlas"
+  },
+  {
+    "name": "Ikan goreng",
+    "serving_size": "1 ekor",
+    "weight": 70,
+    "calories": 180,
+    "reference": "NP"
+  },
+  {
+    "name": "Ikan haruan kering goreng",
+    "serving_size": "1 ekor kecil",
+    "weight": 40,
+    "calories": 160,
+    "reference": "NP"
+  },
+  {
+    "name": "Ikan keli goreng berlada",
+    "serving_size": "1 ekor\nsederhana",
+    "weight": 90,
+    "calories": 90,
+    "reference": "NP"
+  },
+  {
+    "name": "Ikan kembong bakar",
+    "serving_size": "1 ekor",
+    "weight": 70,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "+ air asam",
+    "serving_size": "1 sudu makan",
+    "weight": 20,
+    "calories": 10,
+    "reference": "NP"
+  },
+  {
+    "name": "Ikan kembong goreng",
+    "serving_size": "1 ekor",
+    "weight": 70,
+    "calories": 160,
+    "reference": "Atlas"
+  },
+  {
+    "name": "Ikan kembong goreng belada",
+    "serving_size": "1 ekor",
+    "weight": 110,
+    "calories": 300,
+    "reference": "Atlas"
+  },
+  {
+    "name": "Ikan kembong masak asam rebus",
+    "serving_size": "1 ekor",
+    "weight": 80,
+    "calories": 100,
+    "reference": "NP"
+  },
+  {
+    "name": "Ikan kembong masak kicap",
+    "serving_size": "1 ekor",
+    "weight": 80,
+    "calories": 160,
+    "reference": "Atlas"
+  },
+  {
+    "name": "Ikan kembong masak taucu",
+    "serving_size": "1 ekor",
+    "weight": 80,
+    "calories": 130,
+    "reference": "NP"
+  },
+  {
+    "name": "Ikan kerisi goreng",
+    "serving_size": "1 ekor",
+    "weight": 75,
+    "calories": 205,
+    "reference": "NP"
+  },
+  {
+    "name": "Ikan kerisi goreng berlada",
+    "serving_size": "1 ekor",
+    "weight": 75,
+    "calories": 245,
+    "reference": "NP"
+  },
+  {
+    "name": "Ikan kerisi masak kicap",
+    "serving_size": "1 ekor",
+    "weight": 75,
+    "calories": 150,
+    "reference": "NP"
+  },
+  {
+    "name": "Ikan kukus dengan halia",
+    "serving_size": "1 potong",
+    "weight": 55,
+    "calories": 100,
+    "reference": "NP"
+  },
+  {
+    "name": "Ikan masam manis",
+    "serving_size": "1 ekor",
+    "weight": 80,
+    "calories": 220,
+    "reference": "NP"
+  },
+  {
+    "name": "Ikan masin goreng bawang",
+    "serving_size": "3 ketul",
+    "weight": 50,
+    "calories": 100,
+    "reference": "NP"
+  },
+  {
+    "name": "Ikan masin masak lemak",
+    "serving_size": "1 senduk",
+    "weight": 50,
+    "calories": 145,
+    "reference": "NP"
+  },
+  {
+    "name": "Ikan merah goreng berlada",
+    "serving_size": "1 potong kecil",
+    "weight": 50,
+    "calories": 130,
+    "reference": "NP"
+  },
+  {
+    "name": "Ikan merah masak asam",
+    "serving_size": "1 potong\nsederhana",
+    "weight": 80,
+    "calories": 180,
+    "reference": "NP"
+  },
+  {
+    "name": "Ikan merah masak asam pedas",
+    "serving_size": "1 potong kecil",
+    "weight": 80,
+    "calories": 190,
+    "reference": "NP"
+  },
+  {
+    "name": "Ikan merah masak lemak",
+    "serving_size": "1 potong\nsederhana",
+    "weight": 80,
+    "calories": 200,
+    "reference": "NP"
+  },
+  {
+    "name": "Makanan",
+    "serving_size": "Hidangan",
+    "weight": "Berat (g)",
+    "calories": "Kalori (kcal)",
+    "reference": "Rujukan"
+  },
+  {
+    "name": "Ikan merah singgang",
+    "serving_size": "1 ekor",
+    "weight": 80,
+    "calories": 115,
+    "reference": "NP"
+  },
+  {
+    "name": "Ikan panggang Portugal Ala EDEN",
+    "serving_size": "1 potong",
+    "weight": 90,
+    "calories": 170,
+    "reference": "NP"
+  },
+  {
+    "name": "Ikan pari masak asam pedas",
+    "serving_size": "1 potong",
+    "weight": 60,
+    "calories": 120,
+    "reference": "NC"
+  },
+  {
+    "name": "Ikan selar goreng",
+    "serving_size": "1 ekor",
+    "weight": 60,
+    "calories": 105,
+    "reference": "NP"
+  },
+  {
+    "name": "Ikan selar kuning goreng",
+    "serving_size": "1 ekor",
+    "weight": 60,
+    "calories": 100,
+    "reference": "NP"
+  },
+  {
+    "name": "Ikan selar kuning masak asam pedas",
+    "serving_size": "1 ekor kecil",
+    "weight": 40,
+    "calories": 90,
+    "reference": "NP"
+  },
+  {
+    "name": "Ikan sembilang goreng",
+    "serving_size": "1 ekor",
+    "weight": 100,
+    "calories": 280,
+    "reference": "NP"
+  },
+  {
+    "name": "Ikan senangin goreng",
+    "serving_size": "1 ekor",
+    "weight": 80,
+    "calories": 220,
+    "reference": "NP"
+  },
+  {
+    "name": "Ikan senangin masak cili",
+    "serving_size": "1 potong",
+    "weight": 60,
+    "calories": 145,
+    "reference": "NP"
+  },
+  {
+    "name": "Ikan senangin masak masam manis",
+    "serving_size": "2 potong",
+    "weight": 100,
+    "calories": 210,
+    "reference": "NP"
+  },
+  {
+    "name": "Ikan tenggiri asam pedas",
+    "serving_size": "1keping",
+    "weight": 55,
+    "calories": 120,
+    "reference": "NP"
+  },
+  {
+    "name": "Ikan tenggiri goreng",
+    "serving_size": "1 keping",
+    "weight": 60,
+    "calories": 190,
+    "reference": "NC"
+  },
+  {
+    "name": "Ikan tenggiri goreng berlada",
+    "serving_size": "1 keping",
+    "weight": 60,
+    "calories": 150,
+    "reference": "NC"
+  },
+  {
+    "name": "Ikan tiga rasa",
+    "serving_size": "1 ekor",
+    "weight": 80,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Ikan tilapia goreng berlada",
+    "serving_size": "1 ekor",
+    "weight": 60,
+    "calories": 145,
+    "reference": "NP"
+  },
+  {
+    "name": "Ikan tilapia masak lemak",
+    "serving_size": "1 ekor",
+    "weight": 60,
+    "calories": 70,
+    "reference": "NC"
+  },
+  {
+    "name": "Ikan tongkol masak lemak",
+    "serving_size": "1 potong + 4\nsudu makan\nkuah",
+    "weight": 60,
+    "calories": 70,
+    "reference": "NC"
+  },
+  {
+    "name": "Isi ikan (fish fillet)",
+    "serving_size": "3 ketul",
+    "weight": 45,
+    "calories": 105,
+    "reference": "NP"
+  },
+  {
+    "name": "Isi ikan harum wangi bunga kantan",
+    "serving_size": "3 ketul",
+    "weight": 60,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Isi ikan kukus cendawan hitam",
+    "serving_size": "1 senduk",
+    "weight": 60,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Isi ikan masak tiga rasa",
+    "serving_size": "1 senduk",
+    "weight": 60,
+    "calories": 85,
+    "reference": "NP"
+  },
+  {
+    "name": "Isi ikan sweet sour",
+    "serving_size": "1 keping",
+    "weight": 60,
+    "calories": 90,
+    "reference": "NP"
+  },
+  {
+    "name": "Kari ikan kembong",
+    "serving_size": "1 ekor",
+    "weight": 80,
+    "calories": 70,
+    "reference": "NC"
+  },
+  {
+    "name": "Kari ikan masin",
+    "serving_size": "3 ketul",
+    "weight": 60,
+    "calories": 95,
+    "reference": "NP"
+  },
+  {
+    "name": "Kari udang & nenas",
+    "serving_size": "1 senduk",
+    "weight": 70,
+    "calories": 30,
+    "reference": "NP"
+  },
+  {
+    "name": "Kerabu Jelly Fish",
+    "serving_size": "1 senduk",
+    "weight": 50,
+    "calories": 50,
+    "reference": "NP"
+  },
+  {
+    "name": "Kerabu sotong",
+    "serving_size": "1 senduk",
+    "weight": 50,
+    "calories": 55,
+    "reference": "NP"
+  },
+  {
+    "name": "Kerang masak sambal",
+    "serving_size": "1 senduk",
+    "weight": 55,
+    "calories": 60,
+    "reference": "NP"
+  },
+  {
+    "name": "Keropok ikan",
+    "serving_size": "5 keping",
+    "weight": 30,
+    "calories": 150,
+    "reference": "NC"
+  },
+  {
+    "name": "Keropok udang",
+    "serving_size": "1⁄2 cawan",
+    "weight": 20,
+    "calories": 85,
+    "reference": "NP"
+  },
+  {
+    "name": "Ketam masak cili",
+    "serving_size": "2 ekor",
+    "weight": 100,
+    "calories": 140,
+    "reference": "NP"
+  },
+  {
+    "name": "Kupang masak sambal",
+    "serving_size": "1 senduk",
+    "weight": 60,
+    "calories": 95,
+    "reference": "NP"
+  },
+  {
+    "name": "Lala masak masam manis",
+    "serving_size": "1 senduk",
+    "weight": 55,
+    "calories": 50,
+    "reference": "NP"
+  },
+  {
+    "name": "Nugget ayam",
+    "serving_size": "1 keping",
+    "weight": 20,
+    "calories": 60,
+    "reference": "NP"
+  },
+  {
+    "name": "Otak-otak",
+    "serving_size": "1 keping",
+    "weight": 30,
+    "calories": 70,
+    "reference": "NP"
+  },
+  {
+    "name": "Pan fried butter fish",
+    "serving_size": "1 ketul",
+    "weight": 90,
+    "calories": 190,
+    "reference": "NP"
+  },
+  {
+    "name": "Salad crabstick with honeydew",
+    "serving_size": "1 senduk",
+    "weight": 80,
+    "calories": 120,
+    "reference": "NP"
+  },
+  {
+    "name": "Sambal goreng ikan bilis + kacang tanah",
+    "serving_size": "1 senduk",
+    "weight": 50,
+    "calories": 150,
+    "reference": "NP"
+  },
+  {
+    "name": "Sambal ikan bilis",
+    "serving_size": "2 sudu makan",
+    "weight": 30,
+    "calories": 100,
+    "reference": "Atlas"
+  },
+  {
+    "name": "Sambal sardin",
+    "serving_size": "2 sudu makan",
+    "weight": 25,
+    "calories": 50,
+    "reference": "NP"
+  },
+  {
+    "name": "Sambal sotong",
+    "serving_size": "4 ekor kecil",
+    "weight": 80,
+    "calories": 100,
+    "reference": "NP"
+  },
+  {
+    "name": "Sambal sotong kembang",
+    "serving_size": "1 senduk",
+    "weight": 50,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Makanan",
+    "serving_size": "Hidangan",
+    "weight": "Berat (g)",
+    "calories": "Kalori (kcal)",
+    "reference": "Rujukan"
+  },
+  {
+    "name": "Sambal tempe + ikan bilis+ kentang",
+    "serving_size": "1 senduk",
+    "weight": 40,
+    "calories": 100,
+    "reference": "NP"
+  },
+  {
+    "name": "Sambal tumis udang",
+    "serving_size": "1 senduk",
+    "weight": 60,
+    "calories": 145,
+    "reference": "NP"
+  },
+  {
+    "name": "Sambal udang kecil",
+    "serving_size": "1 senduk",
+    "weight": 40,
+    "calories": 70,
+    "reference": "Atlas"
+  },
+  {
+    "name": "Sotong goreng kunyit",
+    "serving_size": "1 senduk",
+    "weight": 60,
+    "calories": 90,
+    "reference": "NP"
+  },
+  {
+    "name": "Sotong goreng tepung",
+    "serving_size": "1 senduk",
+    "weight": 60,
+    "calories": 150,
+    "reference": "NP"
+  },
+  {
+    "name": "Sotong kering masak sambal",
+    "serving_size": "1 senduk",
+    "weight": 45,
+    "calories": 65,
+    "reference": "NP"
+  },
+  {
+    "name": "Sotong masak kicap",
+    "serving_size": "2 ekor",
+    "weight": 60,
+    "calories": 90,
+    "reference": "NP"
+  },
+  {
+    "name": "Steamed red Talapia Fish Thai Style",
+    "serving_size": "1 keping",
+    "weight": 70,
+    "calories": 60,
+    "reference": "NP"
+  },
+  {
+    "name": "Stir Fried Mantis Prawn with Thai Sauce",
+    "serving_size": "2 ekor",
+    "weight": 40,
+    "calories": 70,
+    "reference": "NP"
+  },
+  {
+    "name": "Stir Fried Prawn with Butter and Curry Leaves",
+    "serving_size": "1 ekor\nsederhana",
+    "weight": 30,
+    "calories": 70,
+    "reference": "NP"
+  },
+  {
+    "name": "Sup ikan merah",
+    "serving_size": "1 mangkuk kecil",
+    "weight": 150,
+    "calories": 100,
+    "reference": "NP"
+  },
+  {
+    "name": "Sup ikan merah & batang sederi",
+    "serving_size": "1 mangkuk kecil",
+    "weight": 150,
+    "calories": 40,
+    "reference": "NP"
+  },
+  {
+    "name": "Udang dengan sos Mongolian",
+    "serving_size": "3 ekor",
+    "weight": 80,
+    "calories": 130,
+    "reference": "NP"
+  },
+  {
+    "name": "Udang Goreng Kunyit",
+    "serving_size": "3 ekor\nsederhana",
+    "weight": 80,
+    "calories": 90,
+    "reference": "NP"
+  },
+  {
+    "name": "Udang masak lemak kuning",
+    "serving_size": "3 ekor",
+    "weight": 40,
+    "calories": 95,
+    "reference": "NP"
+  },
+  {
+    "name": "Makanan",
+    "serving_size": "Hidangan",
+    "weight": "Berat (g)",
+    "calories": "Kalori (kcal)",
+    "reference": "Rujukan"
+  },
+  {
+    "name": "Acar timun",
+    "serving_size": "1 senduk",
+    "weight": 50,
+    "calories": 50,
+    "reference": "NP"
+  },
+  {
+    "name": "Belimbing",
+    "serving_size": "1 biji",
+    "weight": 300,
+    "calories": 70,
+    "reference": "NP"
+  },
+  {
+    "name": "Betik",
+    "serving_size": "1 potong\nsederhana",
+    "weight": 200,
+    "calories": 70,
+    "reference": "NP"
+  },
+  {
+    "name": "Buah kurma",
+    "serving_size": "3 biji",
+    "weight": 30,
+    "calories": 60,
+    "reference": "NC"
+  },
+  {
+    "name": "Buah lai",
+    "serving_size": "1 biji sederhana",
+    "weight": 200,
+    "calories": 70,
+    "reference": "NP"
+  },
+  {
+    "name": "Buah naga",
+    "serving_size": "3 hirisan kecil",
+    "weight": 30,
+    "calories": 30,
+    "reference": "NP"
+  },
+  {
+    "name": "Buah-buahan potong",
+    "serving_size": "6 hirisan kecil",
+    "weight": 80,
+    "calories": 30,
+    "reference": "NP"
+  },
+  {
+    "name": "Buah-buahan potong",
+    "serving_size": "8 hirisan kecil",
+    "weight": 100,
+    "calories": 40,
+    "reference": "NP"
+  },
+  {
+    "name": "Chilled Longan with Jelly",
+    "serving_size": "1 cawan",
+    "weight": 150,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Epal hijau",
+    "serving_size": "1 biji",
+    "weight": 110,
+    "calories": 60,
+    "reference": "NP"
+  },
+  {
+    "name": "Epal merah",
+    "serving_size": "1 biji",
+    "weight": 110,
+    "calories": 60,
+    "reference": "NP"
+  },
+  {
+    "name": "Fruit cocktail triffle pudding",
+    "serving_size": "1 potong",
+    "weight": 60,
+    "calories": 110,
+    "reference": "NP"
+  },
+  {
+    "name": "Fruit tartlet",
+    "serving_size": "1 biji",
+    "weight": 60,
+    "calories": 160,
+    "reference": "NP"
+  },
+  {
+    "name": "Jagung rebus",
+    "serving_size": "1 cawan kecil",
+    "weight": 120,
+    "calories": 110,
+    "reference": "NP"
+  },
+  {
+    "name": "Jambu air",
+    "serving_size": "1 biji",
+    "weight": 50,
+    "calories": 10,
+    "reference": "NP"
+  },
+  {
+    "name": "Jambu batu",
+    "serving_size": "1⁄2 biji (tanpa biji)",
+    "weight": 150,
+    "calories": 70,
+    "reference": "NP"
+  },
+  {
+    "name": "Kerabu mangga",
+    "serving_size": "1 senduk",
+    "weight": 50,
+    "calories": 75,
+    "reference": "NP"
+  },
+  {
+    "name": "Mangga",
+    "serving_size": "1 biji sederhana",
+    "weight": 100,
+    "calories": 70,
+    "reference": "NP"
+  },
+  {
+    "name": "Nangka masak lemak",
+    "serving_size": "1 senduk",
+    "weight": 60,
+    "calories": 50,
+    "reference": "NP"
+  },
+  {
+    "name": "Nenas",
+    "serving_size": "1 potong\nsederhana",
+    "weight": 130,
+    "calories": 60,
+    "reference": "NP"
+  },
+  {
+    "name": "Nenas Bombay",
+    "serving_size": "1 senduk",
+    "weight": 45,
+    "calories": 40,
+    "reference": "NP"
+  },
+  {
+    "name": "Makanan",
+    "serving_size": "Hidangan",
+    "weight": "Berat (g)",
+    "calories": "Kalori (kcal)",
+    "reference": "Rujukan"
+  },
+  {
+    "name": "Pisang berangan",
+    "serving_size": "1 biji sederhana",
+    "weight": 90,
+    "calories": 60,
+    "reference": "NP"
+  },
+  {
+    "name": "Pisang mas",
+    "serving_size": "2 bji sederhana",
+    "weight": 100,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Pisang masak lemak",
+    "serving_size": "1 senduk",
+    "weight": 60,
+    "calories": 90,
+    "reference": "NP"
+  },
+  {
+    "name": "Rojak sayur + kuah kacang",
+    "serving_size": "1 cawan",
+    "weight": 100,
+    "calories": 90,
+    "reference": "NP"
+  },
+  {
+    "name": "Tembikai",
+    "serving_size": "1 potong\nsederhana",
+    "weight": 130,
+    "calories": 40,
+    "reference": "NP"
+  },
+  {
+    "name": "Thai style kerabu mango",
+    "serving_size": "1 senduk",
+    "weight": 70,
+    "calories": 110,
+    "reference": "NP"
+  },
+  {
+    "name": "Makanan",
+    "serving_size": "Hidangan",
+    "weight": "Berat (g)",
+    "calories": "Kalori (kcal)",
+    "reference": "Rujukan"
+  },
+  {
+    "name": "Bayam goreng",
+    "serving_size": "1 senduk",
+    "weight": 60,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Braised chinese cabbage with three\nmushroom",
+    "serving_size": "1 senduk",
+    "weight": 50,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Brocolli & cauliflower goreng",
+    "serving_size": "1 senduk",
+    "weight": 60,
+    "calories": 20,
+    "reference": "NP"
+  },
+  {
+    "name": "Cekur manis masak lemak",
+    "serving_size": "1 senduk",
+    "weight": 60,
+    "calories": 120,
+    "reference": "NP"
+  },
+  {
+    "name": "Cili jeruk",
+    "serving_size": "1 sudu makan",
+    "weight": 10,
+    "calories": 10,
+    "reference": "NP"
+  },
+  {
+    "name": "Cream of potatoes",
+    "serving_size": "1 mangkuk kecil",
+    "weight": 150,
+    "calories": 90,
+    "reference": "NP"
+  },
+  {
+    "name": "Cucumber & tomato raita",
+    "serving_size": "1 senduk",
+    "weight": 80,
+    "calories": 30,
+    "reference": "NP"
+  },
+  {
+    "name": "Dalca kacang kuda",
+    "serving_size": "1 senduk",
+    "weight": 60,
+    "calories": 130,
+    "reference": "NP"
+  },
+  {
+    "name": "Dalca sayur",
+    "serving_size": "1 senduk",
+    "weight": 80,
+    "calories": 130,
+    "reference": "NP"
+  },
+  {
+    "name": "Fucuk tumis air",
+    "serving_size": "1 senduk",
+    "weight": 90,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Jelatah (timun & nenas)",
+    "serving_size": "1 senduk",
+    "weight": 50,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Kacang botol goreng",
+    "serving_size": "1 senduk",
+    "weight": 60,
+    "calories": 50,
+    "reference": "NP"
+  },
+  {
+    "name": "Kacang buncis goreng",
+    "serving_size": "1 senduk",
+    "weight": 60,
+    "calories": 40,
+    "reference": "NP"
+  },
+  {
+    "name": "Kacang kuda/ kacang tanah (rebus)",
+    "serving_size": "1 senduk",
+    "weight": 50,
+    "calories": 160,
+    "reference": "NP"
+  },
+  {
+    "name": "Kacang panggang",
+    "serving_size": "2 sudu makan",
+    "weight": 50,
+    "calories": 40,
+    "reference": "NP"
+  },
+  {
+    "name": "Kacang panjang goreng",
+    "serving_size": "1 senduk",
+    "weight": 60,
+    "calories": 55,
+    "reference": "NP"
+  },
+  {
+    "name": "Kailan goreng",
+    "serving_size": "1 senduk",
+    "weight": 60,
+    "calories": 40,
+    "reference": "NP"
+  },
+  {
+    "name": "Kailan ikan masin",
+    "serving_size": "1 senduk",
+    "weight": 60,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Kailan masak sos tiram",
+    "serving_size": "1 senduk",
+    "weight": 60,
+    "calories": 40,
+    "reference": "NP"
+  },
+  {
+    "name": "Kangkung goreng",
+    "serving_size": "1 senduk",
+    "weight": 60,
+    "calories": 50,
+    "reference": "NP"
+  },
+  {
+    "name": "Kari sayur",
+    "serving_size": "1 senduk",
+    "weight": 60,
+    "calories": 60,
+    "reference": "NP"
+  },
+  {
+    "name": "Keladi masak asam rebus",
+    "serving_size": "1 mangkuk kecil",
+    "weight": 100,
+    "calories": 60,
+    "reference": "NP"
+  },
+  {
+    "name": "Keledek goreng",
+    "serving_size": "2 keping",
+    "weight": 40,
+    "calories": 170,
+    "reference": "NP"
+  },
+  {
+    "name": "Keledek/ keladi goreng",
+    "serving_size": "3 keping",
+    "weight": 90,
+    "calories": 175,
+    "reference": "NP"
+  },
+  {
+    "name": "Kerabu pucuk paku",
+    "serving_size": "1 senduk",
+    "weight": 50,
+    "calories": 30,
+    "reference": "NP"
+  },
+  {
+    "name": "Kerabu pucuk paku/ taugeh",
+    "serving_size": "1 senduk",
+    "weight": 60,
+    "calories": 40,
+    "reference": "NP"
+  },
+  {
+    "name": "Kerabu suhun",
+    "serving_size": "1 senduk",
+    "weight": 80,
+    "calories": 65,
+    "reference": "NP"
+  },
+  {
+    "name": "Kerabu taugeh + lobak merah",
+    "serving_size": "1 senduk",
+    "weight": 60,
+    "calories": 60,
+    "reference": "NP"
+  },
+  {
+    "name": "Kerabu ulam",
+    "serving_size": "1 cawan",
+    "weight": 60,
+    "calories": 20,
+    "reference": "NP"
+  },
+  {
+    "name": "Kobis goreng",
+    "serving_size": "1 senduk",
+    "weight": 60,
+    "calories": 50,
+    "reference": "NP"
+  },
+  {
+    "name": "Kobis masak lemak putih",
+    "serving_size": "1 senduk",
+    "weight": 70,
+    "calories": 135,
+    "reference": "NP"
+  },
+  {
+    "name": "Labu kuning masak lemak",
+    "serving_size": "1 senduk",
+    "weight": 60,
+    "calories": 50,
+    "reference": "NP"
+  },
+  {
+    "name": "Lontong dengan sayur lodeh",
+    "serving_size": "1 mangkuk",
+    "weight": 270,
+    "calories": 280,
+    "reference": "NP"
+  },
+  {
+    "name": "Makanan",
+    "serving_size": "Hidangan",
+    "weight": "Berat (g)",
+    "calories": "Kalori (kcal)",
+    "reference": "Rujukan"
+  },
+  {
+    "name": "Petola masak air",
+    "serving_size": "1 senduk",
+    "weight": 60,
+    "calories": 50,
+    "reference": "NP"
+  },
+  {
+    "name": "Pucuk manis + labu kuning masak lemak",
+    "serving_size": "1 senduk",
+    "weight": 105,
+    "calories": 150,
+    "reference": "NP"
+  },
+  {
+    "name": "Pucuk manis masak kuah lemak putih",
+    "serving_size": "1 senduk",
+    "weight": 90,
+    "calories": 100,
+    "reference": "NP"
+  },
+  {
+    "name": "Pucuk paku masak lemak",
+    "serving_size": "1 senduk",
+    "weight": 40,
+    "calories": 140,
+    "reference": "NP"
+  },
+  {
+    "name": "Rebung masak lemak",
+    "serving_size": "1 senduk",
+    "weight": 60,
+    "calories": 50,
+    "reference": "NP"
+  },
+  {
+    "name": "Salad",
+    "serving_size": "3 tangkai",
+    "weight": 30,
+    "calories": 5,
+    "reference": "NP"
+  },
+  {
+    "name": "Salad Arab",
+    "serving_size": "1 senduk",
+    "weight": 50,
+    "calories": 60,
+    "reference": "NP"
+  },
+  {
+    "name": "Salad crabstick with honeydew",
+    "serving_size": "1 senduk",
+    "weight": 80,
+    "calories": 120,
+    "reference": "NP"
+  },
+  {
+    "name": "Salad telur",
+    "serving_size": "1 senduk",
+    "weight": 50,
+    "calories": 110,
+    "reference": "NP"
+  },
+  {
+    "name": "Salad telur",
+    "serving_size": "1 senduk",
+    "weight": 50,
+    "calories": 110,
+    "reference": "NP"
+  },
+  {
+    "name": "Sawi chap choy goreng",
+    "serving_size": "1 senduk",
+    "weight": 60,
+    "calories": 50,
+    "reference": "NP"
+  },
+  {
+    "name": "Sawi hijau goreng sos tiram",
+    "serving_size": "1 senduk",
+    "weight": 60,
+    "calories": 55,
+    "reference": "NP"
+  },
+  {
+    "name": "Sawi Jepun goreng",
+    "serving_size": "1 senduk",
+    "weight": 60,
+    "calories": 50,
+    "reference": "NP"
+  },
+  {
+    "name": "Sawi putih goreng",
+    "serving_size": "1 senduk",
+    "weight": 60,
+    "calories": 50,
+    "reference": "NP"
+  },
+  {
+    "name": "Sawi putih goreng kuah sos tiram",
+    "serving_size": "1 senduk",
+    "weight": 60,
+    "calories": 55,
+    "reference": "NP"
+  },
+  {
+    "name": "Sayur campur goreng",
+    "serving_size": "1 senduk",
+    "weight": 60,
+    "calories": 50,
+    "reference": "NP"
+  },
+  {
+    "name": "Sayur goreng Jawa",
+    "serving_size": "1 senduk",
+    "weight": 50,
+    "calories": 70,
+    "reference": "NP"
+  },
+  {
+    "name": "Sayur lodeh",
+    "serving_size": "2 senduk",
+    "weight": 90,
+    "calories": 125,
+    "reference": "NP"
+  },
+  {
+    "name": "Sup cendawan",
+    "serving_size": "1 mangkuk kecil",
+    "weight": 150,
+    "calories": 75,
+    "reference": "NP"
+  },
+  {
+    "name": "Sup sayur campur",
+    "serving_size": "1 mangkuk kecil",
+    "weight": 150,
+    "calories": 45,
+    "reference": "NP"
+  },
+  {
+    "name": "Sup yong tau foo",
+    "serving_size": "1 senduk",
+    "weight": 50,
+    "calories": 50,
+    "reference": "NP"
+  },
+  {
+    "name": "Taugeh",
+    "serving_size": "1 senduk",
+    "weight": 30,
+    "calories": 10,
+    "reference": "NP"
+  },
+  {
+    "name": "Taugeh sos tiram",
+    "serving_size": "1 senduk",
+    "weight": 40,
+    "calories": 40,
+    "reference": "NP"
+  },
+  {
+    "name": "Terung goreng berlada",
+    "serving_size": "1 senduk",
+    "weight": 70,
+    "calories": 70,
+    "reference": "NP"
+  },
+  {
+    "name": "Timun & nenas",
+    "serving_size": "1 cawan",
+    "weight": 40,
+    "calories": 50,
+    "reference": "NP"
+  },
+  {
+    "name": "Tomato",
+    "serving_size": "1 biji",
+    "weight": 20,
+    "calories": 5,
+    "reference": "NC"
+  },
+  {
+    "name": "Ubi kayu goreng",
+    "serving_size": "3 keping",
+    "weight": 90,
+    "calories": 145,
+    "reference": "NP"
+  },
+  {
+    "name": "Ulam",
+    "serving_size": "1 cawan",
+    "weight": 30,
+    "calories": 10,
+    "reference": "NP"
+  },
+  {
+    "name": "Makanan",
+    "serving_size": "Hidangan",
+    "weight": "Berat (g)",
+    "calories": "Kalori (kcal)",
+    "reference": "Rujukan"
+  },
+  {
+    "name": "Sup tauhu Jepun",
+    "serving_size": "1 senduk",
+    "weight": 90,
+    "calories": 60,
+    "reference": "NP"
+  },
+  {
+    "name": "Tauhu goreng",
+    "serving_size": "1 keping",
+    "weight": 40,
+    "calories": 70,
+    "reference": "NP"
+  },
+  {
+    "name": "Tauhu kukus",
+    "serving_size": "1 keping",
+    "weight": 50,
+    "calories": 35,
+    "reference": "NP"
+  },
+  {
+    "name": "Tauhu masak sos tiram",
+    "serving_size": "1 ketul",
+    "weight": 90,
+    "calories": 100,
+    "reference": "NP"
+  },
+  {
+    "name": "Tauhu sambal",
+    "serving_size": "1 keping",
+    "weight": 70,
+    "calories": 105,
+    "reference": "NP"
+  },
+  {
+    "name": "Tauhu sumbat",
+    "serving_size": "2 keping",
+    "weight": 100,
+    "calories": 140,
+    "reference": "NP"
+  },
+  {
+    "name": "Tempe goreng",
+    "serving_size": "1 keping",
+    "weight": 70,
+    "calories": 255,
+    "reference": "NP"
+  },
+  {
+    "name": "Tempe goreng cili",
+    "serving_size": "1 senduk",
+    "weight": 40,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Makanan",
+    "serving_size": "Hidangan",
+    "weight": "Berat (g)",
+    "calories": "Kalori (kcal)",
+    "reference": "Rujukan"
+  },
+  {
+    "name": "Agar-agar buah",
+    "serving_size": "1 potong kecil",
+    "weight": 30,
+    "calories": 20,
+    "reference": "NP"
+  },
+  {
+    "name": "Aiskrim (perisa coklat)",
+    "serving_size": "2 senduk",
+    "weight": 70,
+    "calories": 305,
+    "reference": "NP"
+  },
+  {
+    "name": "Aneka kuih talam",
+    "serving_size": "1 ketul",
+    "weight": 40,
+    "calories": 60,
+    "reference": "NP"
+  },
+  {
+    "name": "Apam",
+    "serving_size": "1 biji",
+    "weight": 30,
+    "calories": 60,
+    "reference": "NC."
+  },
+  {
+    "name": "Apam balik",
+    "serving_size": "1 keping besar",
+    "weight": 120,
+    "calories": 290,
+    "reference": "NC."
+  },
+  {
+    "name": "Apam beras",
+    "serving_size": "1 biji",
+    "weight": 30,
+    "calories": 50,
+    "reference": "NP"
+  },
+  {
+    "name": "Apam butter",
+    "serving_size": "1 keping",
+    "weight": 40,
+    "calories": 110,
+    "reference": "NP"
+  },
+  {
+    "name": "Apam gula hangus",
+    "serving_size": "1 biji",
+    "weight": 50,
+    "calories": 160,
+    "reference": "NC"
+  },
+  {
+    "name": "Apam manis",
+    "serving_size": "1 keping",
+    "weight": 100,
+    "calories": 70,
+    "reference": "NP"
+  },
+  {
+    "name": "Apam pisang",
+    "serving_size": "1 keping",
+    "weight": 40,
+    "calories": 110,
+    "reference": "NP"
+  },
+  {
+    "name": "Apam putih kukus + kelapa",
+    "serving_size": "1 biji",
+    "weight": 50,
+    "calories": 95,
+    "reference": "NP"
+  },
+  {
+    "name": "Apam salut kelapa",
+    "serving_size": "1 biji",
+    "weight": 40,
+    "calories": 110,
+    "reference": "NP"
+  },
+  {
+    "name": "Apple cinnamon crumble",
+    "serving_size": "1 senduk",
+    "weight": 50,
+    "calories": 160,
+    "reference": "NP"
+  },
+  {
+    "name": "Assorted cake",
+    "serving_size": "1 keping kecil",
+    "weight": 20,
+    "calories": 100,
+    "reference": "NC"
+  },
+  {
+    "name": "Baulu",
+    "serving_size": "1 ketul",
+    "weight": 10,
+    "calories": 40,
+    "reference": "NC."
+  },
+  {
+    "name": "Bergedil kentang",
+    "serving_size": "1 ketul",
+    "weight": 50,
+    "calories": 110,
+    "reference": "NP"
+  },
+  {
+    "name": "Bidaran",
+    "serving_size": "1 keping",
+    "weight": 70,
+    "calories": 230,
+    "reference": "NC."
+  },
+  {
+    "name": "Bijirin sarapan",
+    "serving_size": "1 cawan",
+    "weight": 40,
+    "calories": 130,
+    "reference": "Atlas"
+  },
+  {
+    "name": "Bingka jagung",
+    "serving_size": "1 potong",
+    "weight": 30,
+    "calories": 150,
+    "reference": "NP"
+  },
+  {
+    "name": "Bingka pandan",
+    "serving_size": "1 potong",
+    "weight": 40,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Bingka roti",
+    "serving_size": "1 potong",
+    "weight": 70,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Bingka tepung beras",
+    "serving_size": "1 potong",
+    "weight": 40,
+    "calories": 75,
+    "reference": "NC"
+  },
+  {
+    "name": "Bingka ubi kayu",
+    "serving_size": "1 potong",
+    "weight": 100,
+    "calories": 220,
+    "reference": "NC."
+  },
+  {
+    "name": "Biskut Almond London",
+    "serving_size": "1 keping",
+    "weight": 5,
+    "calories": 30,
+    "reference": "NP"
+  },
+  {
+    "name": "Biskut cornflakes",
+    "serving_size": "2 keping",
+    "weight": 15,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Biskut kraker",
+    "serving_size": "1 keping",
+    "weight": 10,
+    "calories": 40,
+    "reference": "NC"
+  },
+  {
+    "name": "Biskut Marie",
+    "serving_size": "3 keping",
+    "weight": 20,
+    "calories": 100,
+    "reference": "NC"
+  },
+  {
+    "name": "Biskut oat",
+    "serving_size": "3 keping",
+    "weight": 40,
+    "calories": 200,
+    "reference": "NP"
+  },
+  {
+    "name": "Bread butter pudding with vanilla sauce",
+    "serving_size": "1 senduk",
+    "weight": 80,
+    "calories": 120,
+    "reference": "NP"
+  },
+  {
+    "name": "Buah Melaka",
+    "serving_size": "2 biji kecil",
+    "weight": 30,
+    "calories": 60,
+    "reference": "NC"
+  },
+  {
+    "name": "Bubur cha-cha",
+    "serving_size": "1 mangkuk kecil",
+    "weight": 120,
+    "calories": 180,
+    "reference": "NP"
+  },
+  {
+    "name": "Bubur jagung",
+    "serving_size": "2 senduk",
+    "weight": 100,
+    "calories": 210,
+    "reference": "NP"
+  },
+  {
+    "name": "Bubur kacang hijau",
+    "serving_size": "1 mangkuk kecil",
+    "weight": 230,
+    "calories": 240,
+    "reference": "NC."
+  },
+  {
+    "name": "Bubur kacang merah",
+    "serving_size": "1 mangkuk kecil",
+    "weight": 230,
+    "calories": 101,
+    "reference": "NC"
+  },
+  {
+    "name": "Bubur pulut hitam",
+    "serving_size": "1 mangkuk kecil",
+    "weight": 150,
+    "calories": 115,
+    "reference": "NP"
+  },
+  {
+    "name": "Bun ikan bilis",
+    "serving_size": "1 biji",
+    "weight": 60,
+    "calories": 180,
+    "reference": "NP"
+  },
+  {
+    "name": "Bun kacang",
+    "serving_size": "1 biji",
+    "weight": 60,
+    "calories": 190,
+    "reference": "NP"
+  },
+  {
+    "name": "Bun kismis",
+    "serving_size": "1 biji",
+    "weight": 40,
+    "calories": 115,
+    "reference": "NP"
+  },
+  {
+    "name": "Bun pandan kelapa",
+    "serving_size": "1 biji",
+    "weight": 50,
+    "calories": 165,
+    "reference": "NP"
+  },
+  {
+    "name": "Burger daging",
+    "serving_size": "1 set",
+    "weight": 130,
+    "calories": 320,
+    "reference": "NC"
+  },
+  {
+    "name": "Butter cookies",
+    "serving_size": "3 keping",
+    "weight": 30,
+    "calories": 130,
+    "reference": "NP"
+  },
+  {
+    "name": "Buttered prawn",
+    "serving_size": "5 ekor",
+    "weight": 100,
+    "calories": 180,
+    "reference": "NP"
+  },
+  {
+    "name": "Cakoi",
+    "serving_size": "2 biji",
+    "weight": 40,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Capati",
+    "serving_size": "1 keping",
+    "weight": 100,
+    "calories": 300,
+    "reference": "NC"
+  },
+  {
+    "name": "Cek mek molek",
+    "serving_size": "1 ketul",
+    "weight": 30,
+    "calories": 60,
+    "reference": "NP"
+  },
+  {
+    "name": "Makanan",
+    "serving_size": "Hidangan",
+    "weight": "Berat (g)",
+    "calories": "Kalori (kcal)",
+    "reference": "Rujukan"
+  },
+  {
+    "name": "Chee-pah",
+    "serving_size": "1 biji",
+    "weight": 50,
+    "calories": 150,
+    "reference": "NC"
+  },
+  {
+    "name": "Cheese tart",
+    "serving_size": "1 biji",
+    "weight": 20,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Chicken boxing",
+    "serving_size": "3 ketul",
+    "weight": 50,
+    "calories": 120,
+    "reference": "NP"
+  },
+  {
+    "name": "Chilled Longan with Jelly",
+    "serving_size": "1 cawan",
+    "weight": 150,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Chocolate eclair",
+    "serving_size": "1 ketul",
+    "weight": 20,
+    "calories": 100,
+    "reference": "NP"
+  },
+  {
+    "name": "Cream puff",
+    "serving_size": "1 biji",
+    "weight": 50,
+    "calories": 170,
+    "reference": "NP"
+  },
+  {
+    "name": "Cucumber & tomato raita",
+    "serving_size": "1 senduk",
+    "weight": 80,
+    "calories": 30,
+    "reference": "NP"
+  },
+  {
+    "name": "Cucur badak",
+    "serving_size": "1 biji",
+    "weight": 30,
+    "calories": 80,
+    "reference": "NC"
+  },
+  {
+    "name": "Cucur bawang",
+    "serving_size": "3 biji",
+    "weight": 50,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Cucur ikan bilis",
+    "serving_size": "3 biji",
+    "weight": 50,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Cucur jagung",
+    "serving_size": "3 biji",
+    "weight": 30,
+    "calories": 70,
+    "reference": "NP"
+  },
+  {
+    "name": "Cucur lemak manis",
+    "serving_size": "3 biji",
+    "weight": 30,
+    "calories": 200,
+    "reference": "NP"
+  },
+  {
+    "name": "Cucur manis",
+    "serving_size": "3 biji",
+    "weight": 30,
+    "calories": 90,
+    "reference": "NP"
+  },
+  {
+    "name": "Cucur pisang (cekodok)",
+    "serving_size": "3 biji",
+    "weight": 50,
+    "calories": 120,
+    "reference": "NP"
+  },
+  {
+    "name": "Cucur sayur",
+    "serving_size": "3 biji",
+    "weight": 50,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Cucur udang",
+    "serving_size": "1 biji",
+    "weight": 50,
+    "calories": 130,
+    "reference": "NC."
+  },
+  {
+    "name": "Danish pastry",
+    "serving_size": "1 ketul",
+    "weight": 50,
+    "calories": 150,
+    "reference": "NP"
+  },
+  {
+    "name": "Dodol",
+    "serving_size": "1 potong",
+    "weight": 20,
+    "calories": 70,
+    "reference": "NC."
+  },
+  {
+    "name": "Dodol durian",
+    "serving_size": "1 potong",
+    "weight": 20,
+    "calories": 70,
+    "reference": "NC."
+  },
+  {
+    "name": "Donat",
+    "serving_size": "1 biji",
+    "weight": 80,
+    "calories": 290,
+    "reference": "NC."
+  },
+  {
+    "name": "Donat coklat",
+    "serving_size": "1 biji",
+    "weight": 80,
+    "calories": 330,
+    "reference": "NP"
+  },
+  {
+    "name": "Donat pedas (disira dengan sambal)",
+    "serving_size": "1 biji",
+    "weight": 50,
+    "calories": 130,
+    "reference": "NP"
+  },
+  {
+    "name": "Dosai",
+    "serving_size": "1 keping",
+    "weight": 80,
+    "calories": 150,
+    "reference": "NC."
+  },
+  {
+    "name": "Emping",
+    "serving_size": "1 keping",
+    "weight": 20,
+    "calories": 70,
+    "reference": "NP"
+  },
+  {
+    "name": "French toast",
+    "serving_size": "1 keping",
+    "weight": 50,
+    "calories": 150,
+    "reference": "NP"
+  },
+  {
+    "name": "Fruit cocktail triffle pudding",
+    "serving_size": "1 potong",
+    "weight": 60,
+    "calories": 110,
+    "reference": "NP"
+  },
+  {
+    "name": "Fruit tartlet",
+    "serving_size": "1 biji",
+    "weight": 60,
+    "calories": 160,
+    "reference": "NP"
+  },
+  {
+    "name": "Halwa",
+    "serving_size": "1 keping",
+    "weight": 50,
+    "calories": 150,
+    "reference": "NC."
+  },
+  {
+    "name": "Honeydew sago",
+    "serving_size": "1 mangkuk kecil",
+    "weight": 100,
+    "calories": 220,
+    "reference": "NP"
+  },
+  {
+    "name": "Idli",
+    "serving_size": "1 keping",
+    "weight": 80,
+    "calories": 100,
+    "reference": "NC."
+  },
+  {
+    "name": "Jagung rebus",
+    "serving_size": "1 cawan kecil",
+    "weight": 120,
+    "calories": 110,
+    "reference": "NP"
+  },
+  {
+    "name": "Jem strawberi",
+    "serving_size": "1 sudu makan",
+    "weight": 30,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Karipap ayam",
+    "serving_size": "1 biji",
+    "weight": 40,
+    "calories": 140,
+    "reference": "NP"
+  },
+  {
+    "name": "Karipap biasa inti keledek",
+    "serving_size": "1 biji",
+    "weight": 40,
+    "calories": 120,
+    "reference": "NP"
+  },
+  {
+    "name": "Karipap biasa inti kentang",
+    "serving_size": "1 biji",
+    "weight": 40,
+    "calories": 130,
+    "reference": "NP"
+  },
+  {
+    "name": "Karipap biasa inti sardin",
+    "serving_size": "1 biji",
+    "weight": 40,
+    "calories": 160,
+    "reference": "NP"
+  },
+  {
+    "name": "Karipap daging",
+    "serving_size": "1 biji",
+    "weight": 40,
+    "calories": 140,
+    "reference": "NP"
+  },
+  {
+    "name": "Karipap inti isi ikan",
+    "serving_size": "1 biji",
+    "weight": 40,
+    "calories": 170,
+    "reference": "NP"
+  },
+  {
+    "name": "Karipap kentang",
+    "serving_size": "1 biji",
+    "weight": 40,
+    "calories": 130,
+    "reference": "NP"
+  },
+  {
+    "name": "Karipap mini",
+    "serving_size": "1 biji",
+    "weight": 20,
+    "calories": 120,
+    "reference": "NP"
+  },
+  {
+    "name": "Karipap pusing",
+    "serving_size": "1 biji",
+    "weight": 40,
+    "calories": 90,
+    "reference": "NP"
+  },
+  {
+    "name": "Karipap pusing inti keledek",
+    "serving_size": "1 biji",
+    "weight": 40,
+    "calories": 130,
+    "reference": "NP"
+  },
+  {
+    "name": "Karipap pusing inti kentang",
+    "serving_size": "1 biji",
+    "weight": 40,
+    "calories": 130,
+    "reference": "NP"
+  },
+  {
+    "name": "Karipap sardin",
+    "serving_size": "1 biji",
+    "weight": 40,
+    "calories": 155,
+    "reference": "NP"
+  },
+  {
+    "name": "Kastad jagung",
+    "serving_size": "1 potong",
+    "weight": 90,
+    "calories": 100,
+    "reference": "NC"
+  },
+  {
+    "name": "Kasturi kacang",
+    "serving_size": "1 biji",
+    "weight": 70,
+    "calories": 170,
+    "reference": "NC"
+  },
+  {
+    "name": "Makanan",
+    "serving_size": "Hidangan",
+    "weight": "Berat (g)",
+    "calories": "Kalori (kcal)",
+    "reference": "Rujukan"
+  },
+  {
+    "name": "Kek biasa",
+    "serving_size": "1 potong",
+    "weight": 23,
+    "calories": 100,
+    "reference": "NC"
+  },
+  {
+    "name": "Kek buah",
+    "serving_size": "1 potong",
+    "weight": 40,
+    "calories": 130,
+    "reference": "NP"
+  },
+  {
+    "name": "Kek cawan",
+    "serving_size": "1 biji",
+    "weight": 40,
+    "calories": 160,
+    "reference": "NP"
+  },
+  {
+    "name": "Kek coklat",
+    "serving_size": "1 potong",
+    "weight": 40,
+    "calories": 120,
+    "reference": "NP"
+  },
+  {
+    "name": "Kek coklat moist",
+    "serving_size": "1 potong",
+    "weight": 40,
+    "calories": 220,
+    "reference": "NP"
+  },
+  {
+    "name": "Kek gulung berjem",
+    "serving_size": "1 keping",
+    "weight": 40,
+    "calories": 130,
+    "reference": "NP"
+  },
+  {
+    "name": "Kek keju",
+    "serving_size": "1 potong besar",
+    "weight": 70,
+    "calories": 220,
+    "reference": "NP"
+  },
+  {
+    "name": "Kek keju blueberry",
+    "serving_size": "1 keping",
+    "weight": 30,
+    "calories": 100,
+    "reference": "NP"
+  },
+  {
+    "name": "Kek lapis strawberi (Apollo)",
+    "serving_size": "1 potong",
+    "weight": 20,
+    "calories": 85,
+    "reference": "NP"
+  },
+  {
+    "name": "Kek mentega",
+    "serving_size": "1 potong",
+    "weight": 40,
+    "calories": 160,
+    "reference": "NP"
+  },
+  {
+    "name": "Kek pisang",
+    "serving_size": "1 potong",
+    "weight": 30,
+    "calories": 100,
+    "reference": "NP"
+  },
+  {
+    "name": "Kek span",
+    "serving_size": "1 potong",
+    "weight": 30,
+    "calories": 90,
+    "reference": "NP"
+  },
+  {
+    "name": "Kek swiss roll",
+    "serving_size": "1 potong",
+    "weight": 10,
+    "calories": 40,
+    "reference": "NC"
+  },
+  {
+    "name": "Kek swiss roll perasa coklat",
+    "serving_size": "1 potong",
+    "weight": 10,
+    "calories": 40,
+    "reference": "NC"
+  },
+  {
+    "name": "Keladi goreng",
+    "serving_size": "2 keping",
+    "weight": 60,
+    "calories": 180,
+    "reference": "NP"
+  },
+  {
+    "name": "Keledek goreng",
+    "serving_size": "2 keping",
+    "weight": 40,
+    "calories": 170,
+    "reference": "NP"
+  },
+  {
+    "name": "Keledek/ keladi goreng",
+    "serving_size": "3 keping",
+    "weight": 90,
+    "calories": 175,
+    "reference": "NP"
+  },
+  {
+    "name": "Kentang goreng (French fries)",
+    "serving_size": "1 cawan kecil",
+    "weight": 90,
+    "calories": 290,
+    "reference": "NC"
+  },
+  {
+    "name": "Kentang goreng (wedges)",
+    "serving_size": "4 keping",
+    "weight": 40,
+    "calories": 135,
+    "reference": "NP"
+  },
+  {
+    "name": "Kentang lecek",
+    "serving_size": "1 senduk",
+    "weight": 80,
+    "calories": 70,
+    "reference": "NP"
+  },
+  {
+    "name": "Kerepek bawang",
+    "serving_size": "3 keping",
+    "weight": 12,
+    "calories": 60,
+    "reference": "NP"
+  },
+  {
+    "name": "Kerepek pisang",
+    "serving_size": "6 keping",
+    "weight": 10,
+    "calories": 50,
+    "reference": "NP"
+  },
+  {
+    "name": "Kerepek ubi kayu",
+    "serving_size": "1 keping",
+    "weight": 10,
+    "calories": 40,
+    "reference": "NC"
+  },
+  {
+    "name": "Keria",
+    "serving_size": "1 biji",
+    "weight": 30,
+    "calories": 90,
+    "reference": "NC"
+  },
+  {
+    "name": "Keropok ikan",
+    "serving_size": "5 keping",
+    "weight": 30,
+    "calories": 150,
+    "reference": "NC"
+  },
+  {
+    "name": "Keropok lekor",
+    "serving_size": "3 keping\nsederhana",
+    "weight": 70,
+    "calories": 210,
+    "reference": "NP"
+  },
+  {
+    "name": "Keropok udang",
+    "serving_size": "1⁄2 cawan",
+    "weight": 20,
+    "calories": 85,
+    "reference": "NP"
+  },
+  {
+    "name": "Ketayap",
+    "serving_size": "1 keping",
+    "weight": 70,
+    "calories": 150,
+    "reference": "NC"
+  },
+  {
+    "name": "Ketupat nasi",
+    "serving_size": "5 potong",
+    "weight": 200,
+    "calories": 215,
+    "reference": "NP"
+  },
+  {
+    "name": "Ketupat pulut",
+    "serving_size": "1 biji",
+    "weight": 45,
+    "calories": 130,
+    "reference": "NP"
+  },
+  {
+    "name": "Koci pulut hitam",
+    "serving_size": "1 biji",
+    "weight": 80,
+    "calories": 160,
+    "reference": "NC"
+  },
+  {
+    "name": "Kole kacang",
+    "serving_size": "1 potong",
+    "weight": 30,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Kole kacang",
+    "serving_size": "1 potong",
+    "weight": 30,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Kuah cili nasi ayam",
+    "serving_size": "1 sudu makan",
+    "weight": 20,
+    "calories": 10,
+    "reference": "NP"
+  },
+  {
+    "name": "Kuih bakar",
+    "serving_size": "1 potong",
+    "weight": 40,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Kuih bakar (Kemboja)",
+    "serving_size": "1 potong",
+    "weight": 40,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Kuih bakul",
+    "serving_size": "1 biji",
+    "weight": 30,
+    "calories": 60,
+    "reference": "NC"
+  },
+  {
+    "name": "Kuih bangkit",
+    "serving_size": "1 biji",
+    "weight": 3,
+    "calories": 15,
+    "reference": "NC"
+  },
+  {
+    "name": "Kuih bangkit sagu",
+    "serving_size": "1 biji",
+    "weight": 4,
+    "calories": 20,
+    "reference": "NC"
+  },
+  {
+    "name": "Kuih bom",
+    "serving_size": "1 biji",
+    "weight": 60,
+    "calories": 200,
+    "reference": "NC"
+  },
+  {
+    "name": "Kuih buah rotan",
+    "serving_size": "1 biji",
+    "weight": 3,
+    "calories": 10,
+    "reference": "NP"
+  },
+  {
+    "name": "Kuih cara berlauk",
+    "serving_size": "2 keping",
+    "weight": 60,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Kuih cara manis",
+    "serving_size": "2 keping",
+    "weight": 40,
+    "calories": 125,
+    "reference": "NP"
+  },
+  {
+    "name": "Kuih kacang",
+    "serving_size": "1 biji",
+    "weight": 20,
+    "calories": 90,
+    "reference": "NC"
+  },
+  {
+    "name": "Kuih kapit",
+    "serving_size": "1 keping",
+    "weight": 4,
+    "calories": 20,
+    "reference": "NC"
+  },
+  {
+    "name": "Makanan",
+    "serving_size": "Hidangan",
+    "weight": "Berat (g)",
+    "calories": "Kalori (kcal)",
+    "reference": "Rujukan"
+  },
+  {
+    "name": "Kuih kastard jagung",
+    "serving_size": "1 potong",
+    "weight": 40,
+    "calories": 50,
+    "reference": "NP"
+  },
+  {
+    "name": "Kuih kasturi",
+    "serving_size": "1 biji",
+    "weight": 70,
+    "calories": 170,
+    "reference": "NC"
+  },
+  {
+    "name": "Kuih kasui",
+    "serving_size": "1 potong",
+    "weight": 40,
+    "calories": 60,
+    "reference": "NP"
+  },
+  {
+    "name": "Kuih koci pulut hitam",
+    "serving_size": "1 biji",
+    "weight": 50,
+    "calories": 100,
+    "reference": "NP"
+  },
+  {
+    "name": "Kuih koci pulut putih",
+    "serving_size": "1 biji",
+    "weight": 50,
+    "calories": 110,
+    "reference": "NP"
+  },
+  {
+    "name": "Kuih lapis",
+    "serving_size": "1 potong",
+    "weight": 90,
+    "calories": 140,
+    "reference": "NC"
+  },
+  {
+    "name": "Kuih lapis pelangi",
+    "serving_size": "1 potong",
+    "weight": 40,
+    "calories": 70,
+    "reference": "NP"
+  },
+  {
+    "name": "Kuih lidah kucing",
+    "serving_size": "1 keping",
+    "weight": 10,
+    "calories": 50,
+    "reference": "NC"
+  },
+  {
+    "name": "Kuih lompang",
+    "serving_size": "1 biji",
+    "weight": 90,
+    "calories": 120,
+    "reference": "NC"
+  },
+  {
+    "name": "Kuih sagu",
+    "serving_size": "1 potong",
+    "weight": 90,
+    "calories": 130,
+    "reference": "NC"
+  },
+  {
+    "name": "Kuih talam ubi kayu",
+    "serving_size": "1 potong",
+    "weight": 50,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Laddu",
+    "serving_size": "1 keping",
+    "weight": 70,
+    "calories": 310,
+    "reference": "NC"
+  },
+  {
+    "name": "Lemang",
+    "serving_size": "1 potong",
+    "weight": 30,
+    "calories": 100,
+    "reference": "NP"
+  },
+  {
+    "name": "Lempeng gulung sardin",
+    "serving_size": "2 keping",
+    "weight": 70,
+    "calories": 210,
+    "reference": "NP"
+  },
+  {
+    "name": "Lempeng gulung sayur",
+    "serving_size": "1 keping",
+    "weight": 80,
+    "calories": 200,
+    "reference": "NP"
+  },
+  {
+    "name": "Lempeng kosong",
+    "serving_size": "3 keping",
+    "weight": 80,
+    "calories": 260,
+    "reference": "NP"
+  },
+  {
+    "name": "Lempeng pisang",
+    "serving_size": "2 keping",
+    "weight": 80,
+    "calories": 110,
+    "reference": "NP"
+  },
+  {
+    "name": "Lepat labu",
+    "serving_size": "1 keping",
+    "weight": 85,
+    "calories": 180,
+    "reference": "NP"
+  },
+  {
+    "name": "Lepat pisang",
+    "serving_size": "1 biji",
+    "weight": 90,
+    "calories": 180,
+    "reference": "NC"
+  },
+  {
+    "name": "Lepat ubi",
+    "serving_size": "1 biji",
+    "weight": 90,
+    "calories": 190,
+    "reference": "NC"
+  },
+  {
+    "name": "Lompang",
+    "serving_size": "1 biji",
+    "weight": 90,
+    "calories": 190,
+    "reference": "NC"
+  },
+  {
+    "name": "Lopes pulut",
+    "serving_size": "1 keping",
+    "weight": 80,
+    "calories": 160,
+    "reference": "NC"
+  },
+  {
+    "name": "Mini egg tart",
+    "serving_size": "1 ketul",
+    "weight": 30,
+    "calories": 85,
+    "reference": "NP"
+  },
+  {
+    "name": "Mini pizza",
+    "serving_size": "1 keping",
+    "weight": 60,
+    "calories": 130,
+    "reference": "NP"
+  },
+  {
+    "name": "Mini quiche",
+    "serving_size": "1 ketul",
+    "weight": 30,
+    "calories": 75,
+    "reference": "NP"
+  },
+  {
+    "name": "Muffin coklat",
+    "serving_size": "1 biji",
+    "weight": 35,
+    "calories": 135,
+    "reference": "NP"
+  },
+  {
+    "name": "Muffin coklat (Kenny Rogers Roaster)",
+    "serving_size": "1 biji",
+    "weight": 65,
+    "calories": 225,
+    "reference": "NP"
+  },
+  {
+    "name": "Muffin pisang",
+    "serving_size": "1 biji",
+    "weight": 35,
+    "calories": 140,
+    "reference": "NP"
+  },
+  {
+    "name": "Muffin pisang (Kenny Rogers Roaster)",
+    "serving_size": "1 biji",
+    "weight": 55,
+    "calories": 192,
+    "reference": "NP"
+  },
+  {
+    "name": "Muffin vanilla",
+    "serving_size": "1 biji",
+    "weight": 35,
+    "calories": 145,
+    "reference": "NP"
+  },
+  {
+    "name": "Muffin vanilla (Kenny Rogers Roaster)",
+    "serving_size": "1 biji",
+    "weight": 60,
+    "calories": 230,
+    "reference": "NP"
+  },
+  {
+    "name": "Murtabak",
+    "serving_size": "1 keping",
+    "weight": 80,
+    "calories": 130,
+    "reference": "NP"
+  },
+  {
+    "name": "Murtabak ayam",
+    "serving_size": "1 keping",
+    "weight": 80,
+    "calories": 130,
+    "reference": "NC"
+  },
+  {
+    "name": "Murtabak mini",
+    "serving_size": "1 keping",
+    "weight": 40,
+    "calories": 60,
+    "reference": "NP"
+  },
+  {
+    "name": "Mushroom soup",
+    "serving_size": "1 mangkuk kecil",
+    "weight": 150,
+    "calories": 60,
+    "reference": "NP"
+  },
+  {
+    "name": "Nasi impit",
+    "serving_size": "8 kiub",
+    "weight": 50,
+    "calories": 80,
+    "reference": "Atlas"
+  },
+  {
+    "name": "Nenas Bombay",
+    "serving_size": "1 senduk",
+    "weight": 45,
+    "calories": 40,
+    "reference": "NP"
+  },
+  {
+    "name": "Nugget ayam",
+    "serving_size": "1 keping",
+    "weight": 20,
+    "calories": 60,
+    "reference": "NP"
+  },
+  {
+    "name": "Nugget ayam + kentang goreng",
+    "serving_size": "1 set",
+    "weight": 110,
+    "calories": 350,
+    "reference": "NP"
+  },
+  {
+    "name": "Oat calcium cracker",
+    "serving_size": "1 paket",
+    "weight": 22,
+    "calories": 115,
+    "reference": "NP"
+  },
+  {
+    "name": "Otak-otak",
+    "serving_size": "1 keping",
+    "weight": 30,
+    "calories": 70,
+    "reference": "NP"
+  },
+  {
+    "name": "Papadom",
+    "serving_size": "3 keping",
+    "weight": 10,
+    "calories": 20,
+    "reference": "NP"
+  },
+  {
+    "name": "Pasembor",
+    "serving_size": "1 set",
+    "weight": 260,
+    "calories": 170,
+    "reference": "NP"
+  },
+  {
+    "name": "Pau ayam",
+    "serving_size": "1 biji",
+    "weight": 90,
+    "calories": 210,
+    "reference": "NC"
+  },
+  {
+    "name": "Pau goreng (Burger Malaysia)",
+    "serving_size": "1 biji",
+    "weight": 50,
+    "calories": 130,
+    "reference": "NP"
+  },
+  {
+    "name": "Pau kacang merah",
+    "serving_size": "1 biji",
+    "weight": 80,
+    "calories": 220,
+    "reference": "NC"
+  },
+  {
+    "name": "Makanan",
+    "serving_size": "Hidangan",
+    "weight": "Berat (g)",
+    "calories": "Kalori (kcal)",
+    "reference": "Rujukan"
+  },
+  {
+    "name": "Pau kelapa",
+    "serving_size": "1 biji",
+    "weight": 60,
+    "calories": 170,
+    "reference": "NP"
+  },
+  {
+    "name": "Pau sardin",
+    "serving_size": "1 biji",
+    "weight": 50,
+    "calories": 120,
+    "reference": "NP"
+  },
+  {
+    "name": "Pecal & kuah kacang",
+    "serving_size": "1 senduk",
+    "weight": 40,
+    "calories": 45,
+    "reference": "NP"
+  },
+  {
+    "name": "Peneram",
+    "serving_size": "1 keping",
+    "weight": 60,
+    "calories": 280,
+    "reference": "NC"
+  },
+  {
+    "name": "Pengat keledek, gula merah",
+    "serving_size": "1 mangkuk",
+    "weight": 150,
+    "calories": 480,
+    "reference": "NC"
+  },
+  {
+    "name": "Pengat labu + keledek",
+    "serving_size": "1 senduk",
+    "weight": 100,
+    "calories": 170,
+    "reference": "NP"
+  },
+  {
+    "name": "Pengat labu kuning",
+    "serving_size": "2 senduk",
+    "weight": 100,
+    "calories": 185,
+    "reference": "NP"
+  },
+  {
+    "name": "Pengat pisang",
+    "serving_size": "1 mangkuk kecil",
+    "weight": 110,
+    "calories": 200,
+    "reference": "NP"
+  },
+  {
+    "name": "Pengat pisang nipah",
+    "serving_size": "1 mangkuk kecil",
+    "weight": 150,
+    "calories": 280,
+    "reference": "NC"
+  },
+  {
+    "name": "Pie ayam",
+    "serving_size": "1 biji",
+    "weight": 40,
+    "calories": 100,
+    "reference": "NP"
+  },
+  {
+    "name": "Pie tee",
+    "serving_size": "1 biji",
+    "weight": 30,
+    "calories": 90,
+    "reference": "NP"
+  },
+  {
+    "name": "Pisang goreng",
+    "serving_size": "3 keping",
+    "weight": 70,
+    "calories": 130,
+    "reference": "NP"
+  },
+  {
+    "name": "Piza sayur-sayuran",
+    "serving_size": "1 keping",
+    "weight": 80,
+    "calories": 200,
+    "reference": "NP"
+  },
+  {
+    "name": "Plain biscuit",
+    "serving_size": "3 keping",
+    "weight": 30,
+    "calories": 120,
+    "reference": "NC"
+  },
+  {
+    "name": "Popia basah",
+    "serving_size": "1 biji",
+    "weight": 40,
+    "calories": 70,
+    "reference": "Atlas"
+  },
+  {
+    "name": "Popia basah",
+    "serving_size": "1 biji",
+    "weight": 40,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Popia goreng",
+    "serving_size": "1 biji",
+    "weight": 40,
+    "calories": 70,
+    "reference": "Atlas"
+  },
+  {
+    "name": "Popia sayur",
+    "serving_size": "1 biji",
+    "weight": 40,
+    "calories": 75,
+    "reference": "NP"
+  },
+  {
+    "name": "Popiah otak-otak goreng",
+    "serving_size": "1 biji",
+    "weight": 30,
+    "calories": 150,
+    "reference": "NP"
+  },
+  {
+    "name": "Potato salad",
+    "serving_size": "1 senduk",
+    "weight": 45,
+    "calories": 65,
+    "reference": "NP"
+  },
+  {
+    "name": "Potato wedges",
+    "serving_size": "2 ketul",
+    "weight": 40,
+    "calories": 95,
+    "reference": "NP"
+  },
+  {
+    "name": "Puding jagung",
+    "serving_size": "1 potong",
+    "weight": 90,
+    "calories": 90,
+    "reference": "NC"
+  },
+  {
+    "name": "Puding roti",
+    "serving_size": "1 potong",
+    "weight": 70,
+    "calories": 86,
+    "reference": "NP"
+  },
+  {
+    "name": "Pulut berinti kelapa",
+    "serving_size": "1 biji",
+    "weight": 50,
+    "calories": 110,
+    "reference": "NP"
+  },
+  {
+    "name": "Pulut berinti kelapa pedas",
+    "serving_size": "1 biji",
+    "weight": 50,
+    "calories": 110,
+    "reference": "NP"
+  },
+  {
+    "name": "Pulut panggang",
+    "serving_size": "1 biji",
+    "weight": 80,
+    "calories": 180,
+    "reference": "NC"
+  },
+  {
+    "name": "Pulut udang",
+    "serving_size": "1 biji",
+    "weight": 80,
+    "calories": 180,
+    "reference": "NP"
+  },
+  {
+    "name": "Pumpkin oat calcium cracker",
+    "serving_size": "1 paket",
+    "weight": 22,
+    "calories": 115,
+    "reference": "NP"
+  },
+  {
+    "name": "Puteri ayu",
+    "serving_size": "1 biji",
+    "weight": 30,
+    "calories": 50,
+    "reference": "NP"
+  },
+  {
+    "name": "Putu bambu",
+    "serving_size": "1 biji",
+    "weight": 70,
+    "calories": 190,
+    "reference": "NC"
+  },
+  {
+    "name": "Putu kacang",
+    "serving_size": "1 biji",
+    "weight": 20,
+    "calories": 70,
+    "reference": "NC"
+  },
+  {
+    "name": "Putu mayam",
+    "serving_size": "1 keping",
+    "weight": 50,
+    "calories": 100,
+    "reference": "NC"
+  },
+  {
+    "name": "Putu piring",
+    "serving_size": "1 biji",
+    "weight": 30,
+    "calories": 70,
+    "reference": "NC"
+  },
+  {
+    "name": "Rempeyek",
+    "serving_size": "1 keping",
+    "weight": 20,
+    "calories": 120,
+    "reference": "NC"
+  },
+  {
+    "name": "Rojak",
+    "serving_size": "2 senduk",
+    "weight": 100,
+    "calories": 230,
+    "reference": "Atlas"
+  },
+  {
+    "name": "Rojak sayur + kuah kacang",
+    "serving_size": "1 cawan",
+    "weight": 100,
+    "calories": 90,
+    "reference": "NP"
+  },
+  {
+    "name": "Roti (bun)",
+    "serving_size": "1 biji",
+    "weight": 40,
+    "calories": 140,
+    "reference": "NP"
+  },
+  {
+    "name": "Roti bakar kaya & butter",
+    "serving_size": "2 keping",
+    "weight": 70,
+    "calories": 270,
+    "reference": "NP"
+  },
+  {
+    "name": "Roti bakar mentega kacang",
+    "serving_size": "2 keping",
+    "weight": 70,
+    "calories": 230,
+    "reference": "NP"
+  },
+  {
+    "name": "Roti bakar telur",
+    "serving_size": "2 keping",
+    "weight": 60,
+    "calories": 160,
+    "reference": "NP"
+  },
+  {
+    "name": "Roti bijirin penuh",
+    "serving_size": "2 keping",
+    "weight": 60,
+    "calories": 140,
+    "reference": "NP"
+  },
+  {
+    "name": "Roti canai",
+    "serving_size": "1 keping",
+    "weight": 100,
+    "calories": 320,
+    "reference": "NC"
+  },
+  {
+    "name": "Roti jala",
+    "serving_size": "3 keping",
+    "weight": 55,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "+ kari ayam",
+    "serving_size": "1 senduk",
+    "weight": 40,
+    "calories": 80,
+    "reference": ""
+  },
+  {
+    "name": "Roti putih",
+    "serving_size": "2 keping",
+    "weight": 60,
+    "calories": 160,
+    "reference": "NC"
+  },
+  {
+    "name": "+jem",
+    "serving_size": "1 sudu makan",
+    "weight": 11,
+    "calories": 25,
+    "reference": ""
+  },
+  {
+    "name": "Makanan",
+    "serving_size": "Hidangan",
+    "weight": "Berat (g)",
+    "calories": "Kalori (kcal)",
+    "reference": "Rujukan"
+  },
+  {
+    "name": "Roti roll",
+    "serving_size": "1 keping",
+    "weight": 28,
+    "calories": 70,
+    "reference": "NP"
+  },
+  {
+    "name": "Roti sardin",
+    "serving_size": "1 keping",
+    "weight": 60,
+    "calories": 130,
+    "reference": "NP"
+  },
+  {
+    "name": "Roti sardin celup telur (goreng)",
+    "serving_size": "1 gulung",
+    "weight": 60,
+    "calories": 125,
+    "reference": "NP"
+  },
+  {
+    "name": "Roti sosej",
+    "serving_size": "1 biji",
+    "weight": 70,
+    "calories": 200,
+    "reference": "Atlas"
+  },
+  {
+    "name": "Roti/Bun/Rolls",
+    "serving_size": "1 biji",
+    "weight": 30,
+    "calories": 110,
+    "reference": "NP"
+  },
+  {
+    "name": "Salad",
+    "serving_size": "3 tangkai",
+    "weight": 30,
+    "calories": 5,
+    "reference": "NP"
+  },
+  {
+    "name": "Salad & dressing",
+    "serving_size": "1 senduk",
+    "weight": 30,
+    "calories": 115,
+    "reference": "NP"
+  },
+  {
+    "name": "Salad Arab",
+    "serving_size": "1 senduk",
+    "weight": 50,
+    "calories": 60,
+    "reference": "NP"
+  },
+  {
+    "name": "Salad crabstick with honeydew",
+    "serving_size": "1 senduk",
+    "weight": 80,
+    "calories": 120,
+    "reference": "NP"
+  },
+  {
+    "name": "Salad telur",
+    "serving_size": "1 senduk",
+    "weight": 50,
+    "calories": 110,
+    "reference": "NP"
+  },
+  {
+    "name": "Samosa",
+    "serving_size": "1 biji",
+    "weight": 40,
+    "calories": 120,
+    "reference": "NP"
+  },
+  {
+    "name": "Sandwic ayam",
+    "serving_size": "1 keping",
+    "weight": 30,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Sandwic ayam + salad",
+    "serving_size": "1 keping",
+    "weight": 30,
+    "calories": 100,
+    "reference": "NP"
+  },
+  {
+    "name": "Sandwic keju + salad",
+    "serving_size": "1 keping",
+    "weight": 30,
+    "calories": 100,
+    "reference": "NP"
+  },
+  {
+    "name": "Sandwic sardin",
+    "serving_size": "1 keping",
+    "weight": 30,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Sandwic sardin + salad",
+    "serving_size": "1 keping",
+    "weight": 30,
+    "calories": 90,
+    "reference": "NP"
+  },
+  {
+    "name": "Sandwic telur",
+    "serving_size": "1 keping",
+    "weight": 30,
+    "calories": 70,
+    "reference": "NP"
+  },
+  {
+    "name": "Sandwic telur + salad",
+    "serving_size": "1 keping",
+    "weight": 30,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Sandwic tuna",
+    "serving_size": "1 keping",
+    "weight": 30,
+    "calories": 70,
+    "reference": "NP"
+  },
+  {
+    "name": "Sandwic tuna + salad",
+    "serving_size": "1 keping",
+    "weight": 30,
+    "calories": 90,
+    "reference": "NP"
+  },
+  {
+    "name": "Sardin puff",
+    "serving_size": "1 biji",
+    "weight": 30,
+    "calories": 95,
+    "reference": "NP"
+  },
+  {
+    "name": "Sardin roll",
+    "serving_size": "1 biji",
+    "weight": 40,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Seaweed oat calcium cracker",
+    "serving_size": "1 paket",
+    "weight": 22,
+    "calories": 110,
+    "reference": "NP"
+  },
+  {
+    "name": "Seri ayu + kelapa",
+    "serving_size": "1 biji",
+    "weight": 20,
+    "calories": 35,
+    "reference": "NP"
+  },
+  {
+    "name": "Seri muka",
+    "serving_size": "1 potong",
+    "weight": 100,
+    "calories": 190,
+    "reference": "Atlas"
+  },
+  {
+    "name": "Sesame oat calcium cracker",
+    "serving_size": "1 paket",
+    "weight": 22,
+    "calories": 115,
+    "reference": "NP"
+  },
+  {
+    "name": "Talam kacang merah",
+    "serving_size": "1 potong",
+    "weight": 50,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Talam keladi",
+    "serving_size": "1 potong",
+    "weight": 40,
+    "calories": 90,
+    "reference": "NP"
+  },
+  {
+    "name": "Talam keledek",
+    "serving_size": "1 potong",
+    "weight": 40,
+    "calories": 110,
+    "reference": "NP"
+  },
+  {
+    "name": "Talam seri kaya",
+    "serving_size": "1 potong",
+    "weight": 40,
+    "calories": 60,
+    "reference": "NP"
+  },
+  {
+    "name": "Talam seri muka",
+    "serving_size": "1 potong",
+    "weight": 40,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Talam Suji",
+    "serving_size": "1 potong",
+    "weight": 30,
+    "calories": 65,
+    "reference": "NP"
+  },
+  {
+    "name": "Talam ubi kayu",
+    "serving_size": "1 potong",
+    "weight": 50,
+    "calories": 70,
+    "reference": "NP"
+  },
+  {
+    "name": "Tapai pulut",
+    "serving_size": "1 bungkus",
+    "weight": 80,
+    "calories": 130,
+    "reference": "NC"
+  },
+  {
+    "name": "Tapai pulut",
+    "serving_size": "1 bungkus",
+    "weight": 30,
+    "calories": 50,
+    "reference": "NP"
+  },
+  {
+    "name": "Tat nenas",
+    "serving_size": "1 biji",
+    "weight": 5,
+    "calories": 20,
+    "reference": "NC"
+  },
+  {
+    "name": "Tepung bungkus",
+    "serving_size": "1 biji",
+    "weight": 40,
+    "calories": 110,
+    "reference": "NP"
+  },
+  {
+    "name": "Tepung pelita",
+    "serving_size": "1 biji",
+    "weight": 70,
+    "calories": 100,
+    "reference": "Atlas"
+  },
+  {
+    "name": "Tumpi",
+    "serving_size": "1 keping",
+    "weight": 10,
+    "calories": 50,
+    "reference": "NC"
+  },
+  {
+    "name": "Ubi kayu goreng",
+    "serving_size": "3 keping",
+    "weight": 90,
+    "calories": 145,
+    "reference": "NP"
+  },
+  {
+    "name": "Vadai (kacang dal kuning)",
+    "serving_size": "1 keping",
+    "weight": 40,
+    "calories": 140,
+    "reference": "NP"
+  },
+  {
+    "name": "Wajik",
+    "serving_size": "1 potong",
+    "weight": 20,
+    "calories": 60,
+    "reference": "NC"
+  },
+  {
+    "name": "Wholemeal biscuits",
+    "serving_size": "3 keping",
+    "weight": 33,
+    "calories": 120,
+    "reference": "NP"
+  },
+  {
+    "name": "Yong Tau Foo",
+    "serving_size": "1 set",
+    "weight": 100,
+    "calories": 230,
+    "reference": "NP"
+  },
+  {
+    "name": "Makanan",
+    "serving_size": "Hidangan",
+    "weight": "Berat (g)",
+    "calories": "Kalori (kcal)",
+    "reference": "Rujukan"
+  },
+  {
+    "name": "Apple cinnamon crumble",
+    "serving_size": "1 senduk",
+    "weight": 50,
+    "calories": 160,
+    "reference": "NP"
+  },
+  {
+    "name": "Bread butter pudding with vanilla sauce",
+    "serving_size": "1 senduk",
+    "weight": 80,
+    "calories": 120,
+    "reference": "NP"
+  },
+  {
+    "name": "Brocolli & cauliflower goreng",
+    "serving_size": "1 senduk",
+    "weight": 60,
+    "calories": 20,
+    "reference": "NP"
+  },
+  {
+    "name": "Butter cookies",
+    "serving_size": "3 keping",
+    "weight": 30,
+    "calories": 130,
+    "reference": "NP"
+  },
+  {
+    "name": "Cheese tart",
+    "serving_size": "1 biji",
+    "weight": 20,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Chicken boxing",
+    "serving_size": "3 ketul",
+    "weight": 50,
+    "calories": 120,
+    "reference": "NP"
+  },
+  {
+    "name": "Chicken carbonara with pasta",
+    "serving_size": "2 senduk",
+    "weight": 150,
+    "calories": 180,
+    "reference": "NP"
+  },
+  {
+    "name": "Chilled Longan with Jelly",
+    "serving_size": "1 cawan",
+    "weight": 150,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Chilli prawn chinese style",
+    "serving_size": "3 ekor",
+    "weight": 60,
+    "calories": 120,
+    "reference": "NP"
+  },
+  {
+    "name": "Chinese tea",
+    "serving_size": "1 cawan",
+    "weight": 200,
+    "calories": 0,
+    "reference": "NP"
+  },
+  {
+    "name": "Coleslaw",
+    "serving_size": "1 senduk",
+    "weight": 75,
+    "calories": 110,
+    "reference": "NC"
+  },
+  {
+    "name": "Coleslaw",
+    "serving_size": "1 senduk",
+    "weight": 75,
+    "calories": 110,
+    "reference": "NP"
+  },
+  {
+    "name": "Cream of potatoes",
+    "serving_size": "1 mangkuk kecil",
+    "weight": 150,
+    "calories": 90,
+    "reference": "NP"
+  },
+  {
+    "name": "Cream puff",
+    "serving_size": "1 biji",
+    "weight": 50,
+    "calories": 170,
+    "reference": "NP"
+  },
+  {
+    "name": "Crispy Roasted Chicken with BBQ Sauce",
+    "serving_size": "1 ketul",
+    "weight": 90,
+    "calories": 170,
+    "reference": "NP"
+  },
+  {
+    "name": "Cucumber & tomato raita",
+    "serving_size": "1 senduk",
+    "weight": 80,
+    "calories": 30,
+    "reference": "NP"
+  },
+  {
+    "name": "Danish pastry",
+    "serving_size": "1 ketul",
+    "weight": 50,
+    "calories": 150,
+    "reference": "NP"
+  },
+  {
+    "name": "Fish & chip",
+    "serving_size": "1 set",
+    "weight": 180,
+    "calories": 570,
+    "reference": "NP"
+  },
+  {
+    "name": "French toast",
+    "serving_size": "1 keping",
+    "weight": 50,
+    "calories": 150,
+    "reference": "NP"
+  },
+  {
+    "name": "Fried rice chinese style with silver anchovies",
+    "serving_size": "2 senduk",
+    "weight": 100,
+    "calories": 250,
+    "reference": "NP"
+  },
+  {
+    "name": "Fruit cocktail triffle pudding",
+    "serving_size": "1 potong",
+    "weight": 60,
+    "calories": 110,
+    "reference": "NP"
+  },
+  {
+    "name": "Fruit tartlet",
+    "serving_size": "1 biji",
+    "weight": 60,
+    "calories": 160,
+    "reference": "NP"
+  },
+  {
+    "name": "Hash potato",
+    "serving_size": "1 mangkuk kecil",
+    "weight": 50,
+    "calories": 110,
+    "reference": "NP"
+  },
+  {
+    "name": "Honeydew sago",
+    "serving_size": "1 mangkuk kecil",
+    "weight": 100,
+    "calories": 220,
+    "reference": "NP"
+  },
+  {
+    "name": "Kentang goreng (French fries)",
+    "serving_size": "1 cawan kecil",
+    "weight": 90,
+    "calories": 290,
+    "reference": "NC"
+  },
+  {
+    "name": "Kentang goreng (wedges)",
+    "serving_size": "4 keping",
+    "weight": 40,
+    "calories": 135,
+    "reference": "NP"
+  },
+  {
+    "name": "Kentang lecek",
+    "serving_size": "1 senduk",
+    "weight": 80,
+    "calories": 70,
+    "reference": "NP"
+  },
+  {
+    "name": "Makaroni ayam",
+    "serving_size": "1 senduk",
+    "weight": 100,
+    "calories": 150,
+    "reference": "NP"
+  },
+  {
+    "name": "Makaroni bakar",
+    "serving_size": "2 senduk",
+    "weight": 90,
+    "calories": 150,
+    "reference": "NP"
+  },
+  {
+    "name": "Makaroni goreng",
+    "serving_size": "2 senduk",
+    "weight": 90,
+    "calories": 300,
+    "reference": "NP"
+  },
+  {
+    "name": "Mashed potato",
+    "serving_size": "1 senduk",
+    "weight": 80,
+    "calories": 70,
+    "reference": "NP"
+  },
+  {
+    "name": "Mini egg tart",
+    "serving_size": "1 ketul",
+    "weight": 30,
+    "calories": 85,
+    "reference": "NP"
+  },
+  {
+    "name": "Mini pizza",
+    "serving_size": "1 keping",
+    "weight": 60,
+    "calories": 130,
+    "reference": "NP"
+  },
+  {
+    "name": "Mini quiche",
+    "serving_size": "1 ketul",
+    "weight": 30,
+    "calories": 75,
+    "reference": "NP"
+  },
+  {
+    "name": "Mix fruit punch",
+    "serving_size": "1 mangkuk kecil",
+    "weight": 140,
+    "calories": 50,
+    "reference": "NP"
+  },
+  {
+    "name": "Muffin coklat",
+    "serving_size": "1 biji",
+    "weight": 35,
+    "calories": 135,
+    "reference": "NP"
+  },
+  {
+    "name": "Muffin coklat (Kenny Rogers Roaster)",
+    "serving_size": "1 biji",
+    "weight": 65,
+    "calories": 225,
+    "reference": "NP"
+  },
+  {
+    "name": "Muffin pisang",
+    "serving_size": "1 biji",
+    "weight": 35,
+    "calories": 140,
+    "reference": "NP"
+  },
+  {
+    "name": "Muffin pisang (Kenny Rogers Roaster)",
+    "serving_size": "1 biji",
+    "weight": 55,
+    "calories": 192,
+    "reference": "NP"
+  },
+  {
+    "name": "Muffin vanilla",
+    "serving_size": "1 biji",
+    "weight": 35,
+    "calories": 145,
+    "reference": "NP"
+  },
+  {
+    "name": "Muffin vanilla (Kenny Rogers Roaster)",
+    "serving_size": "1 biji",
+    "weight": 60,
+    "calories": 229,
+    "reference": "NP"
+  },
+  {
+    "name": "Mushroom soup",
+    "serving_size": "1 mangkuk kecil",
+    "weight": 150,
+    "calories": 60,
+    "reference": "NP"
+  },
+  {
+    "name": "Nugget ayam + kentang goreng",
+    "serving_size": "1 set",
+    "weight": 110,
+    "calories": 350,
+    "reference": "NP"
+  },
+  {
+    "name": "Oat calcium cracker",
+    "serving_size": "1 paket",
+    "weight": 22,
+    "calories": 115,
+    "reference": "NP"
+  },
+  {
+    "name": "Makanan",
+    "serving_size": "Hidangan",
+    "weight": "Berat (g)",
+    "calories": "Kalori (kcal)",
+    "reference": "Rujukan"
+  },
+  {
+    "name": "Pan fried butter fish",
+    "serving_size": "1 ketul",
+    "weight": 90,
+    "calories": 190,
+    "reference": "NP"
+  },
+  {
+    "name": "Piza sayur-sayuran",
+    "serving_size": "1 keping",
+    "weight": 80,
+    "calories": 200,
+    "reference": "NP"
+  },
+  {
+    "name": "Potato salad",
+    "serving_size": "1 senduk",
+    "weight": 45,
+    "calories": 65,
+    "reference": "NP"
+  },
+  {
+    "name": "Potato wedges",
+    "serving_size": "2 ketul",
+    "weight": 40,
+    "calories": 95,
+    "reference": "NP"
+  },
+  {
+    "name": "Pumpkin oat calcium cracker",
+    "serving_size": "1 paket",
+    "weight": 22,
+    "calories": 115,
+    "reference": "NP"
+  },
+  {
+    "name": "Roti bakar kaya & butter",
+    "serving_size": "2 keping",
+    "weight": 70,
+    "calories": 270,
+    "reference": "NP"
+  },
+  {
+    "name": "Roti bakar mentega kacang",
+    "serving_size": "2 keping",
+    "weight": 70,
+    "calories": 230,
+    "reference": "NP"
+  },
+  {
+    "name": "Roti bakar telur",
+    "serving_size": "2 keping",
+    "weight": 60,
+    "calories": 160,
+    "reference": "NP"
+  },
+  {
+    "name": "Salad crabstick with honeydew",
+    "serving_size": "1 senduk",
+    "weight": 80,
+    "calories": 120,
+    "reference": "NP"
+  },
+  {
+    "name": "Sandwic ayam + salad",
+    "serving_size": "1 keping",
+    "weight": 30,
+    "calories": 100,
+    "reference": "NP"
+  },
+  {
+    "name": "Sandwic keju + salad",
+    "serving_size": "1 keping",
+    "weight": 30,
+    "calories": 100,
+    "reference": "NP"
+  },
+  {
+    "name": "Sandwic sardin + salad",
+    "serving_size": "1 keping",
+    "weight": 30,
+    "calories": 90,
+    "reference": "NP"
+  },
+  {
+    "name": "Sandwic telur + salad",
+    "serving_size": "1 keping",
+    "weight": 30,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Sandwic tuna + salad",
+    "serving_size": "1 keping",
+    "weight": 30,
+    "calories": 90,
+    "reference": "NP"
+  },
+  {
+    "name": "Seaweed oat calcium cracker",
+    "serving_size": "1 paket",
+    "weight": 22,
+    "calories": 110,
+    "reference": "NP"
+  },
+  {
+    "name": "Sesame oat calcium cracker",
+    "serving_size": "1 paket",
+    "weight": 22,
+    "calories": 115,
+    "reference": "NP"
+  },
+  {
+    "name": "Sosej + roti bakar + scramble egg",
+    "serving_size": "1 set",
+    "weight": 160,
+    "calories": 310,
+    "reference": "NP"
+  },
+  {
+    "name": "Sosej ayam",
+    "serving_size": "1 ketul",
+    "weight": 80,
+    "calories": 220,
+    "reference": "NP"
+  },
+  {
+    "name": "Sosej lada hitam",
+    "serving_size": "1 ketul",
+    "weight": 50,
+    "calories": 110,
+    "reference": "NP"
+  },
+  {
+    "name": "Spagethi dengan keju & sos daging",
+    "serving_size": "1 mangkuk",
+    "weight": 440,
+    "calories": 440,
+    "reference": "NC"
+  },
+  {
+    "name": "Spagetti bolognese bebola daging + keju\n+ daging",
+    "serving_size": "1 mangkuk",
+    "weight": 225,
+    "calories": 390,
+    "reference": "NP"
+  },
+  {
+    "name": "Spicy sesame beef",
+    "serving_size": "1 senduk",
+    "weight": 60,
+    "calories": 160,
+    "reference": "NP"
+  },
+  {
+    "name": "Steamed red Talapia Fish Thai Style",
+    "serving_size": "1 keping",
+    "weight": 70,
+    "calories": 60,
+    "reference": "NP"
+  },
+  {
+    "name": "Stir fried boneless chicken with cashew nuts &\nsesame seeds",
+    "serving_size": "1 ketul",
+    "weight": 50,
+    "calories": 140,
+    "reference": "NP"
+  },
+  {
+    "name": "Stir fried chicken with dry chilli",
+    "serving_size": "1 ketul",
+    "weight": 90,
+    "calories": 150,
+    "reference": "NP"
+  },
+  {
+    "name": "Stir Fried Mantis Prawn with Thai Sauce",
+    "serving_size": "2 ekor",
+    "weight": 40,
+    "calories": 70,
+    "reference": "NP"
+  },
+  {
+    "name": "Stir Fried Prawn with Butter and Curry Leaves",
+    "serving_size": "1 ekor\nsederhana",
+    "weight": 30,
+    "calories": 70,
+    "reference": "NP"
+  },
+  {
+    "name": "Stir fry chicken with celery",
+    "serving_size": "1 senduk",
+    "weight": 60,
+    "calories": 125,
+    "reference": "NP"
+  },
+  {
+    "name": "Telur 1⁄2 masak",
+    "serving_size": "1 biji",
+    "weight": 50,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Wholemeal biscuits",
+    "serving_size": "3 keping",
+    "weight": 33,
+    "calories": 120,
+    "reference": "NP"
+  },
+  {
+    "name": "Yogurt perisa buah",
+    "serving_size": "1 cawan",
+    "weight": 150,
+    "calories": 400,
+    "reference": "NC"
+  },
+  {
+    "name": "Makanan",
+    "serving_size": "Hidangan",
+    "weight": "Berat (g)",
+    "calories": "Kalori (kcal)",
+    "reference": "Rujukan"
+  },
+  {
+    "name": "Jem strawberi",
+    "serving_size": "1 sudu makan",
+    "weight": 30,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Kaya",
+    "serving_size": "1 sudu makan",
+    "weight": 30,
+    "calories": 80,
+    "reference": "Atlas"
+  },
+  {
+    "name": "Marmalade",
+    "serving_size": "1 sudu makan",
+    "weight": 20,
+    "calories": 50,
+    "reference": "NC"
+  },
+  {
+    "name": "Mayonis",
+    "serving_size": "1 sudu makan",
+    "weight": 10,
+    "calories": 60,
+    "reference": "Atlas"
+  },
+  {
+    "name": "Makanan",
+    "serving_size": "Hidangan",
+    "weight": "Berat (g)",
+    "calories": "Kalori (kcal)",
+    "reference": "Rujukan"
+  },
+  {
+    "name": "Kuah cili nasi ayam",
+    "serving_size": "1 sudu makan",
+    "weight": 20,
+    "calories": 10,
+    "reference": "NP"
+  },
+  {
+    "name": "Kuah kacang",
+    "serving_size": "1 sudu makan",
+    "weight": 10,
+    "calories": 30,
+    "reference": "Atlas"
+  },
+  {
+    "name": "Kuah santan",
+    "serving_size": "2 sudu makan",
+    "weight": 30,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Sambal belacan",
+    "serving_size": "1 sudu teh",
+    "weight": 10,
+    "calories": 10,
+    "reference": "NP"
+  },
+  {
+    "name": "Makanan",
+    "serving_size": "Hidangan",
+    "weight": "Berat (g)",
+    "calories": "Kalori (kcal)",
+    "reference": "Rujukan"
+  },
+  {
+    "name": "Air barli",
+    "serving_size": "1 gelas",
+    "weight": 200,
+    "calories": "",
+    "reference": "NP"
+  },
+  {
+    "name": "+ barli",
+    "serving_size": "1⁄4 cawan",
+    "weight": 25,
+    "calories": 85,
+    "reference": ""
+  },
+  {
+    "name": "+ gula",
+    "serving_size": "1 sudu teh",
+    "weight": 5,
+    "calories": 20,
+    "reference": ""
+  },
+  {
+    "name": "Air kosong",
+    "serving_size": "1 gelas",
+    "weight": 250,
+    "calories": 0,
+    "reference": "NP"
+  },
+  {
+    "name": "Air limau nipis",
+    "serving_size": "1 gelas",
+    "weight": 250,
+    "calories": "",
+    "reference": "NP"
+  },
+  {
+    "name": "+ gula",
+    "serving_size": "1 sudu teh",
+    "weight": 5,
+    "calories": 20,
+    "reference": ""
+  },
+  {
+    "name": "+ limau nipis",
+    "serving_size": "1⁄2 biji",
+    "weight": 40,
+    "calories": 20,
+    "reference": ""
+  },
+  {
+    "name": "Air soya",
+    "serving_size": "1 gelas",
+    "weight": 250,
+    "calories": 150,
+    "reference": "Atlas"
+  },
+  {
+    "name": "Cendol",
+    "serving_size": "1 mangkuk",
+    "weight": 150,
+    "calories": 120,
+    "reference": "NP"
+  },
+  {
+    "name": "Fruit cocktail triffle pudding",
+    "serving_size": "1 potong",
+    "weight": 60,
+    "calories": 110,
+    "reference": "NP"
+  },
+  {
+    "name": "Horlicks bersusu*",
+    "serving_size": "1 cawan",
+    "weight": 200,
+    "calories": 170,
+    "reference": "NP"
+  },
+  {
+    "name": "Horlicks O",
+    "serving_size": "1 cawan",
+    "weight": 200,
+    "calories": 140,
+    "reference": "NP"
+  },
+  {
+    "name": "Jus anggur, tanpa gula",
+    "serving_size": "1 gelas",
+    "weight": 250,
+    "calories": 250,
+    "reference": "NP"
+  },
+  {
+    "name": "Jus buah",
+    "serving_size": "1 gelas",
+    "weight": 250,
+    "calories": 60,
+    "reference": "NP"
+  },
+  {
+    "name": "+gula",
+    "serving_size": "1 sudu teh",
+    "weight": 5,
+    "calories": 20,
+    "reference": ""
+  },
+  {
+    "name": "Jus epal, tanpa gula",
+    "serving_size": "1 gelas",
+    "weight": 250,
+    "calories": 120,
+    "reference": "NP"
+  },
+  {
+    "name": "Jus lemon",
+    "serving_size": "1 gelas",
+    "weight": 250,
+    "calories": 20,
+    "reference": "NP"
+  },
+  {
+    "name": "Jus nenas, tanpa gula",
+    "serving_size": "1 gelas",
+    "weight": 250,
+    "calories": 130,
+    "reference": "NP"
+  },
+  {
+    "name": "Jus oren, tanpa gula",
+    "serving_size": "1 gelas",
+    "weight": 250,
+    "calories": 110,
+    "reference": "NP"
+  },
+  {
+    "name": "Kopi bersusu*",
+    "serving_size": "1 cawan",
+    "weight": 200,
+    "calories": 130,
+    "reference": "NP"
+  },
+  {
+    "name": "Kopi O",
+    "serving_size": "1 cawan",
+    "weight": 200,
+    "calories": 60,
+    "reference": "NP"
+  },
+  {
+    "name": "Kordial anggur",
+    "serving_size": "1 gelas",
+    "weight": 250,
+    "calories": 140,
+    "reference": "NP"
+  },
+  {
+    "name": "Kordial durian belanda",
+    "serving_size": "1 gelas",
+    "weight": 250,
+    "calories": 120,
+    "reference": "NP"
+  },
+  {
+    "name": "Kordial laici",
+    "serving_size": "1 gelas",
+    "weight": 250,
+    "calories": 140,
+    "reference": "NP"
+  },
+  {
+    "name": "Kordial oren",
+    "serving_size": "1 gelas",
+    "weight": 250,
+    "calories": 70,
+    "reference": "NP"
+  },
+  {
+    "name": "Kordial sarsi",
+    "serving_size": "1 gelas",
+    "weight": 250,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Milo bersusu*",
+    "serving_size": "1 cawan",
+    "weight": 200,
+    "calories": 160,
+    "reference": "NP"
+  },
+  {
+    "name": "Milo O",
+    "serving_size": "1 cawan",
+    "weight": 200,
+    "calories": 75,
+    "reference": "NP"
+  },
+  {
+    "name": "+ gula",
+    "serving_size": "1 sudu teh",
+    "weight": "",
+    "calories": "",
+    "reference": ""
+  },
+  {
+    "name": "+ serbuk coklat",
+    "serving_size": "2 sudu makan",
+    "weight": "",
+    "calories": "",
+    "reference": ""
+  },
+  {
+    "name": "Minuman berkarbonat",
+    "serving_size": "1 tin",
+    "weight": 285,
+    "calories": 150,
+    "reference": "NP"
+  },
+  {
+    "name": "Minuman bermalta",
+    "serving_size": "1 gelas",
+    "weight": 250,
+    "calories": 150,
+    "reference": "NP"
+  },
+  {
+    "name": "Minuman coklat bersusu",
+    "serving_size": "1 gelas",
+    "weight": 250,
+    "calories": 170,
+    "reference": "NP"
+  },
+  {
+    "name": "Minuman kola",
+    "serving_size": "1 gelas",
+    "weight": 250,
+    "calories": 100,
+    "reference": "Altas"
+  },
+  {
+    "name": "Mix fruit punch",
+    "serving_size": "1 mangkuk kecil",
+    "weight": 140,
+    "calories": 50,
+    "reference": "NP"
+  },
+  {
+    "name": "Makanan",
+    "serving_size": "Hidangan",
+    "weight": "Berat (g)",
+    "calories": "Kalori (kcal)",
+    "reference": "Rujukan"
+  },
+  {
+    "name": "Nescafe O",
+    "serving_size": "1 cawan",
+    "weight": 200,
+    "calories": 60,
+    "reference": "NP"
+  },
+  {
+    "name": "Sirap bandung",
+    "serving_size": "1 gelas",
+    "weight": 250,
+    "calories": 160,
+    "reference": "NP"
+  },
+  {
+    "name": "+ sirap",
+    "serving_size": "1  sudu makan",
+    "weight": 20,
+    "calories": 40,
+    "reference": ""
+  },
+  {
+    "name": "+ susu pekat manis",
+    "serving_size": "1 1⁄2 sudu\nmakan",
+    "weight": 30,
+    "calories": 120,
+    "reference": ""
+  },
+  {
+    "name": "Sirap limau",
+    "serving_size": "1 gelas",
+    "weight": 250,
+    "calories": 90,
+    "reference": "NP"
+  },
+  {
+    "name": "+ gula",
+    "serving_size": "2 sudu teh",
+    "weight": 10,
+    "calories": 30,
+    "reference": ""
+  },
+  {
+    "name": "+ limau nipis",
+    "serving_size": "1⁄2 biji",
+    "weight": 40,
+    "calories": 20,
+    "reference": ""
+  },
+  {
+    "name": "+ sirap",
+    "serving_size": "1 sudu makan",
+    "weight": 20,
+    "calories": 40,
+    "reference": ""
+  },
+  {
+    "name": "Sirap ros",
+    "serving_size": "1 gelas",
+    "weight": 250,
+    "calories": 85,
+    "reference": "NC"
+  },
+  {
+    "name": "+ gula",
+    "serving_size": "2 sudu teh",
+    "weight": 10,
+    "calories": 35,
+    "reference": ""
+  },
+  {
+    "name": "+ sirap",
+    "serving_size": "1 sudu makan",
+    "weight": 20,
+    "calories": 40,
+    "reference": ""
+  },
+  {
+    "name": "Sirap selasih",
+    "serving_size": "1 gelas",
+    "weight": 250,
+    "calories": 120,
+    "reference": "NP"
+  },
+  {
+    "name": "Teh bersusu*",
+    "serving_size": "1 cawan",
+    "weight": 200,
+    "calories": 130,
+    "reference": "NP"
+  },
+  {
+    "name": "Teh lemon (Ice lemon tea-commercial)",
+    "serving_size": "1 gelas",
+    "weight": 250,
+    "calories": 120,
+    "reference": "NP"
+  },
+  {
+    "name": "Teh O",
+    "serving_size": "1 cawan",
+    "weight": 200,
+    "calories": 60,
+    "reference": "NP"
+  },
+  {
+    "name": "Teh O/ Kopi O",
+    "serving_size": "1 cawan",
+    "weight": 200,
+    "calories": 0,
+    "reference": "NC"
+  },
+  {
+    "name": "+ gula",
+    "serving_size": "1 sudu teh",
+    "weight": 5,
+    "calories": 20,
+    "reference": ""
+  },
+  {
+    "name": "Teh tarik",
+    "serving_size": "1 cawan",
+    "weight": 200,
+    "calories": 0,
+    "reference": "NP"
+  },
+  {
+    "name": "+ susu cair",
+    "serving_size": "1 sudu teh",
+    "weight": 5,
+    "calories": 7,
+    "reference": ""
+  },
+  {
+    "name": "+ susu pekat manis",
+    "serving_size": "3 sudu teh",
+    "weight": 29,
+    "calories": 96,
+    "reference": ""
+  },
+  {
+    "name": "Teh tarik kurang manis",
+    "serving_size": "1 cawan",
+    "weight": 200,
+    "calories": 0,
+    "reference": "NP"
+  },
+  {
+    "name": "+ susu cair",
+    "serving_size": "1 sudu teh",
+    "weight": 5,
+    "calories": 7,
+    "reference": ""
+  },
+  {
+    "name": "+ susu pekat manis",
+    "serving_size": "2 sudu teh",
+    "weight": 19,
+    "calories": 63,
+    "reference": ""
+  },
+  {
+    "name": "Teh/ Kopi",
+    "serving_size": "1 cawan",
+    "weight": 200,
+    "calories": 0,
+    "reference": "NC"
+  },
+  {
+    "name": "+ gula",
+    "serving_size": "1 sudu teh",
+    "weight": 5,
+    "calories": 20,
+    "reference": ""
+  },
+  {
+    "name": "+ susu rendah lemak",
+    "serving_size": "1⁄4 cawan",
+    "weight": 60,
+    "calories": 30,
+    "reference": ""
+  },
+  {
+    "name": "Teh/Kopi",
+    "serving_size": "1 cawan",
+    "weight": 200,
+    "calories": 0,
+    "reference": "NP"
+  },
+  {
+    "name": "+gula",
+    "serving_size": "1 sudu teh",
+    "weight": 5,
+    "calories": 20,
+    "reference": ""
+  },
+  {
+    "name": "+krimer",
+    "serving_size": "1 sachet",
+    "weight": 5,
+    "calories": 25,
+    "reference": ""
+  },
+  {
+    "name": "Makanan",
+    "serving_size": "Hidangan",
+    "weight": "Berat (g)",
+    "calories": "Kalori (kcal)",
+    "reference": "Rujukan"
+  },
+  {
+    "name": "Bayam goreng",
+    "serving_size": "1 senduk",
+    "weight": 45,
+    "calories": 50,
+    "reference": "NP"
+  },
+  {
+    "name": "Bingka ubi mentega tanpa sumber haiwan",
+    "serving_size": "1 ketul",
+    "weight": 30,
+    "calories": 65,
+    "reference": "NP"
+  },
+  {
+    "name": "Braised bitter gourd with tauchu",
+    "serving_size": "1 senduk",
+    "weight": 40,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Braised Vegetarian Chinese Cabbage with\nThree Musroom",
+    "serving_size": "1 senduk",
+    "weight": 50,
+    "calories": 50,
+    "reference": "NP"
+  },
+  {
+    "name": "Braised vegetarian shark’s fin soup with four\ntreasures",
+    "serving_size": "1 mangkuk kecil",
+    "weight": 90,
+    "calories": 140,
+    "reference": "NP"
+  },
+  {
+    "name": "Braised water chesnut soup",
+    "serving_size": "1 senduk",
+    "weight": 60,
+    "calories": 60,
+    "reference": "NP"
+  },
+  {
+    "name": "Bubur cacar",
+    "serving_size": "1 mangkuk kecil",
+    "weight": 90,
+    "calories": 140,
+    "reference": "NP"
+  },
+  {
+    "name": "Cauliflower in Masala sauce",
+    "serving_size": "1 senduk",
+    "weight": 40,
+    "calories": 17,
+    "reference": "NP"
+  },
+  {
+    "name": "Makanan",
+    "serving_size": "Hidangan",
+    "weight": "Berat (g)",
+    "calories": "Kalori (kcal)",
+    "reference": "Rujukan"
+  },
+  {
+    "name": "Cendawan tumis air",
+    "serving_size": "1 senduk",
+    "weight": 45,
+    "calories": 30,
+    "reference": "NP"
+  },
+  {
+    "name": "Chap chye tanpa sumber haiwan",
+    "serving_size": "1 senduk",
+    "weight": 60,
+    "calories": 50,
+    "reference": "NP"
+  },
+  {
+    "name": "Chilled Longan with Jelly",
+    "serving_size": "1 cawan",
+    "weight": 200,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Chinese tea",
+    "serving_size": "1 cawan",
+    "weight": 200,
+    "calories": 0,
+    "reference": "NP"
+  },
+  {
+    "name": "Crispy Vegetarian Roasted Chicken with BBQ\nSauce",
+    "serving_size": "1 keping",
+    "weight": 50,
+    "calories": 140,
+    "reference": "NP"
+  },
+  {
+    "name": "Cucumber & tomato raita",
+    "serving_size": "1 senduk",
+    "weight": 80,
+    "calories": 30,
+    "reference": "NP"
+  },
+  {
+    "name": "Deep fried vegetarian spring roll",
+    "serving_size": "1 keping",
+    "weight": 50,
+    "calories": 130,
+    "reference": "NP"
+  },
+  {
+    "name": "Flacky berry puff with yogurt cream",
+    "serving_size": "1 biji kecil",
+    "weight": 30,
+    "calories": 55,
+    "reference": "NP"
+  },
+  {
+    "name": "Fragrant salt & pepper soya prawn",
+    "serving_size": "1 senduk",
+    "weight": 45,
+    "calories": 110,
+    "reference": "NP"
+  },
+  {
+    "name": "Fried Rice Vegetarian Chinese Style",
+    "serving_size": "2 senduk",
+    "weight": 100,
+    "calories": 240,
+    "reference": "NP"
+  },
+  {
+    "name": "Fried vegetarian mee hoon",
+    "serving_size": "2 senduk",
+    "weight": 120,
+    "calories": 140,
+    "reference": "NP"
+  },
+  {
+    "name": "Fruit tartlets tanpa telur",
+    "serving_size": "1 biji",
+    "weight": 40,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Kacang panjang goreng telur",
+    "serving_size": "1 senduk",
+    "weight": 25,
+    "calories": 50,
+    "reference": "NP"
+  },
+  {
+    "name": "Kangkung fried vegetarian chicken",
+    "serving_size": "1 senduk",
+    "weight": 50,
+    "calories": 140,
+    "reference": "NP"
+  },
+  {
+    "name": "Labu kuning goreng",
+    "serving_size": "1 senduk",
+    "weight": 70,
+    "calories": 60,
+    "reference": "NP"
+  },
+  {
+    "name": "Makaroni bakar vegetarian",
+    "serving_size": "1 senduk",
+    "weight": 80,
+    "calories": 130,
+    "reference": "NP"
+  },
+  {
+    "name": "Mini egg tart",
+    "serving_size": "1 biji",
+    "weight": 30,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Mixed grilled vegetables on mini corn bread",
+    "serving_size": "1 keping",
+    "weight": 50,
+    "calories": 120,
+    "reference": "NP"
+  },
+  {
+    "name": "Mixed vegetable with cashewnut",
+    "serving_size": "1 senduk",
+    "weight": 50,
+    "calories": 55,
+    "reference": "NP"
+  },
+  {
+    "name": "Mushroom mini quiche",
+    "serving_size": "1 biji",
+    "weight": 25,
+    "calories": 65,
+    "reference": "NP"
+  },
+  {
+    "name": "Mustard plant with soy bean curd",
+    "serving_size": "1 senduk",
+    "weight": 40,
+    "calories": 85,
+    "reference": "NP"
+  },
+  {
+    "name": "Pan fried vegetarian fish with soy sauce",
+    "serving_size": "3 piece",
+    "weight": 30,
+    "calories": 180,
+    "reference": "NP"
+  },
+  {
+    "name": "Popia sayur",
+    "serving_size": "1 ketul",
+    "weight": 45,
+    "calories": 75,
+    "reference": "NP"
+  },
+  {
+    "name": "Putu mayam with brown sugar",
+    "serving_size": "1 keping",
+    "weight": 20,
+    "calories": 40,
+    "reference": "NP"
+  },
+  {
+    "name": "Rasam (soup)",
+    "serving_size": "1 mangkuk kecil",
+    "weight": 150,
+    "calories": 160,
+    "reference": "NP"
+  },
+  {
+    "name": "Salad vegetarian crabsticks with honey dew",
+    "serving_size": "1 senduk",
+    "weight": 80,
+    "calories": 110,
+    "reference": "NP"
+  },
+  {
+    "name": "Sandwich sayur",
+    "serving_size": "1 keping",
+    "weight": 30,
+    "calories": 45,
+    "reference": "NP"
+  },
+  {
+    "name": "Sayur goreng Jawa tanpa sumber haiwan",
+    "serving_size": "1 senduk",
+    "weight": 50,
+    "calories": 45,
+    "reference": "NP"
+  },
+  {
+    "name": "Simmered dhal with cumin",
+    "serving_size": "1 senduk",
+    "weight": 50,
+    "calories": 70,
+    "reference": "NP"
+  },
+  {
+    "name": "Soy (fucuk )sweet and sour",
+    "serving_size": "1 senduk",
+    "weight": 70,
+    "calories": 85,
+    "reference": "NP"
+  },
+  {
+    "name": "Soy chicken kuzee",
+    "serving_size": "1 senduk",
+    "weight": 70,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Soy chicken masak kicap",
+    "serving_size": "1 senduk",
+    "weight": 65,
+    "calories": 85,
+    "reference": "NP"
+  },
+  {
+    "name": "Soy chicken masak merah",
+    "serving_size": "1 senduk",
+    "weight": 60,
+    "calories": 85,
+    "reference": "NP"
+  },
+  {
+    "name": "Soy fish pan fried",
+    "serving_size": "1 senduk",
+    "weight": 60,
+    "calories": 75,
+    "reference": "NP"
+  },
+  {
+    "name": "Soy meat masak hitam",
+    "serving_size": "1 senduk",
+    "weight": 60,
+    "calories": 90,
+    "reference": "NP"
+  },
+  {
+    "name": "Soy sotong balck pepper",
+    "serving_size": "1 ketul",
+    "weight": 44,
+    "calories": 110,
+    "reference": "NP"
+  },
+  {
+    "name": "Spicy crispy spring roll vegetarian",
+    "serving_size": "1 keping",
+    "weight": 35,
+    "calories": 90,
+    "reference": "NP"
+  },
+  {
+    "name": "Steam egg tiga rasa",
+    "serving_size": "1 senduk",
+    "weight": 50,
+    "calories": 90,
+    "reference": "NP"
+  },
+  {
+    "name": "Steamed Basmati rice with dried fruits",
+    "serving_size": "2 senduk",
+    "weight": 100,
+    "calories": 175,
+    "reference": "NP"
+  },
+  {
+    "name": "Steamed soya fish with mushroom",
+    "serving_size": "1 senduk",
+    "weight": 70,
+    "calories": 110,
+    "reference": "NP"
+  },
+  {
+    "name": "Steamed Vegetarian Fish Thai Style",
+    "serving_size": "1 senduk",
+    "weight": 50,
+    "calories": 100,
+    "reference": "NP"
+  },
+  {
+    "name": "Stewed bean root with mushroom &\nvegetables",
+    "serving_size": "1 senduk",
+    "weight": 40,
+    "calories": 70,
+    "reference": "NP"
+  },
+  {
+    "name": "Stir fried mixed vegetables with fresh herbs",
+    "serving_size": "1 senduk",
+    "weight": 40,
+    "calories": 65,
+    "reference": "NP"
+  },
+  {
+    "name": "Makanan",
+    "serving_size": "Hidangan",
+    "weight": "Berat (g)",
+    "calories": "Kalori (kcal)",
+    "reference": "Rujukan"
+  },
+  {
+    "name": "Stir fried vegetarian mantis prawn",
+    "serving_size": "1 ketul",
+    "weight": 30,
+    "calories": 70,
+    "reference": "NP"
+  },
+  {
+    "name": "Stir fried vegetarian prawn Szechuan style",
+    "serving_size": "1 senduk",
+    "weight": 55,
+    "calories": 50,
+    "reference": "NP"
+  },
+  {
+    "name": "Stir Fried Vegetarian Prawn with Butter and\nCurry Leaves",
+    "serving_size": "1 keping",
+    "weight": 30,
+    "calories": 70,
+    "reference": "NP"
+  },
+  {
+    "name": "Sup sayur & tauhu",
+    "serving_size": "1 mangkuk kecil",
+    "weight": 90,
+    "calories": 80,
+    "reference": "NP"
+  },
+  {
+    "name": "Sup tauhu",
+    "serving_size": "1 mangkuk kecil",
+    "weight": 90,
+    "calories": 40,
+    "reference": "NP"
+  },
+  {
+    "name": "Sweet & sour soy meat",
+    "serving_size": "1 senduk",
+    "weight": 90,
+    "calories": 110,
+    "reference": "NP"
+  },
+  {
+    "name": "Tauhu kukus , sos telur & cendawan hitam",
+    "serving_size": "1⁄2 ketul",
+    "weight": 90,
+    "calories": 100,
+    "reference": "NP"
+  },
+  {
+    "name": "Tauhu with mix vegetables",
+    "serving_size": "1 senduk",
+    "weight": 40,
+    "calories": 75,
+    "reference": "NP"
+  },
+  {
+    "name": "Thai Style Soya prawn",
+    "serving_size": "1 senduk",
+    "weight": 40,
+    "calories": 60,
+    "reference": "NP"
+  },
+  {
+    "name": "Tofu goreng",
+    "serving_size": "1 ketul",
+    "weight": 40,
+    "calories": 105,
+    "reference": "NP"
+  },
+  {
+    "name": "Tofu Jepun sos telur",
+    "serving_size": "1 senduk",
+    "weight": 70,
+    "calories": 100,
+    "reference": "NP"
+  },
+  {
+    "name": "Tofu Jepun sos tiram",
+    "serving_size": "1 senduk",
+    "weight": 60,
+    "calories": 95,
+    "reference": "NP"
+  },
+  {
+    "name": "Tofu Seng Kong",
+    "serving_size": "1 senduk",
+    "weight": 60,
+    "calories": 70,
+    "reference": "NP"
+  },
+  {
+    "name": "Tofu stim & sos tiram",
+    "serving_size": "1 senduk",
+    "weight": 70,
+    "calories": 110,
+    "reference": "NP"
+  },
+  {
+    "name": "Tofu Szechuan",
+    "serving_size": "1 ketul",
+    "weight": 40,
+    "calories": 90,
+    "reference": "NP"
+  },
+  {
+    "name": "Vadai (masala vadai & black lentil vadai)",
+    "serving_size": "1 keping",
+    "weight": 30,
+    "calories": 95,
+    "reference": "NP"
+  },
+  {
+    "name": "Vegetable mix (Ma Po)",
+    "serving_size": "1 senduk",
+    "weight": 40,
+    "calories": 50,
+    "reference": "NP"
+  },
+  {
+    "name": "Vegetarian angsa goreng",
+    "serving_size": "1 ketul",
+    "weight": 50,
+    "calories": 110,
+    "reference": "NP"
+  },
+  {
+    "name": "Vegetarian chicken curry",
+    "serving_size": "3 ketul",
+    "weight": 40,
+    "calories": 130,
+    "reference": "NP"
+  },
+  {
+    "name": "Vegetarian chicken with plum sauce",
+    "serving_size": "3 keping",
+    "weight": 40,
+    "calories": 200,
+    "reference": "NP"
+  },
+  {
+    "name": "Vegetarian ikan kukus halia",
+    "serving_size": "2 senduk",
+    "weight": 80,
+    "calories": 160,
+    "reference": "NP"
+  },
+  {
+    "name": "Vegetarian kari kambing",
+    "serving_size": "3 ketul",
+    "weight": 45,
+    "calories": 135,
+    "reference": "NP"
+  },
+  {
+    "name": "Vegetarian kurma",
+    "serving_size": "1 senduk",
+    "weight": 50,
+    "calories": 95,
+    "reference": "NP"
+  },
+  {
+    "name": "Vegetarian mushroom soup (clear soup)",
+    "serving_size": "1 mangkuk kecil",
+    "weight": 150,
+    "calories": 35,
+    "reference": "NP"
+  },
+  {
+    "name": "Vegetarian pasta",
+    "serving_size": "1 senduk",
+    "weight": 112,
+    "calories": 125,
+    "reference": "NP"
+  },
+  {
+    "name": "Vegetarian pizza",
+    "serving_size": "1 keping",
+    "weight": 53,
+    "calories": 90,
+    "reference": "NP"
+  },
+  {
+    "name": "Vegetarian samosa",
+    "serving_size": "1 biji",
+    "weight": 25,
+    "calories": 50,
+    "reference": "NP"
   }
 ]
