@@ -1,14 +1,13 @@
-import io from 'socket.io-client'
 import { createContext, useMemo, useState, useEffect } from 'react'
 import Swal from 'sweetalert2'
 import withReactContent from 'sweetalert2-react-content'
+import axios from 'axios'
 
 import Header from './components/Main/Header'
 import Searchbar from './components/Main/Searchbar'
 import List from './components/Main/List'
 import BackToTop from './components/BackToTop'
 
-const socket = io.connect('https://zumcalories.onrender.com')
 export const Context = createContext({})
 export const ReactSwal = withReactContent(Swal)
 
@@ -18,9 +17,6 @@ function App() {
   const [items, setItems] = useState([])
   const [searchQuery, setSearchQuery] = useState("")
 
-  useEffect(() => {
-    socket.emit("get_data")
-  }, [])
 
   useEffect(() => {
     if (searchQuery.trim() === "") return
@@ -31,18 +27,20 @@ function App() {
     setItems([...temp])
   }, [searchQuery])
 
+  const getFoodData = async () => {
+    const res = await axios.get("http://localhost:3001/food")
+    setDefaultItems(res.data)
+    setItems(res.data)
+  }
+
   useEffect(() => {
-    socket.on("load_data", data => {
-      setItems(data)
-      setDefaultItems(data)
-    })
-  }, [socket])
+    getFoodData()
+  }, [])
 
   const memo = useMemo(() => ({
-    socket,
     items, setItems,
     searchQuery, setSearchQuery
-  }), [socket, items, searchQuery])
+  }), [items, searchQuery])
 
   return (
     <Context.Provider value={memo}>
