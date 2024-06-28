@@ -19,7 +19,7 @@ function App() {
 
 
   useEffect(() => {
-    if (searchQuery.trim() === "") return
+    if (searchQuery.trim() === "") return setItems([...defaultItems])
     let temp = [...defaultItems]
     temp = temp.filter(food => {
       return food.name.toLowerCase().includes(searchQuery.trim("").toLowerCase())
