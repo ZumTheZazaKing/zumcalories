@@ -1,7 +1,7 @@
 import { createContext, useMemo, useState, useEffect } from 'react'
 import Swal from 'sweetalert2'
 import withReactContent from 'sweetalert2-react-content'
-import axios from 'axios'
+import data from './assets/food_data.json'
 
 import Header from './components/Main/Header'
 import Searchbar from './components/Main/Searchbar'
@@ -28,9 +28,8 @@ function App() {
   }, [searchQuery])
 
   const getFoodData = async () => {
-    const res = await axios.get("http://localhost:3001/food")
-    setDefaultItems(res.data)
-    setItems(res.data)
+    setDefaultItems(data)
+    setItems(data)
   }
 
   useEffect(() => {
