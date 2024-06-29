@@ -7,6 +7,7 @@ import Header from './components/Main/Header'
 import Searchbar from './components/Main/Searchbar'
 import List from './components/Main/List'
 import BackToTop from './components/BackToTop'
+import Footer from './components/Footer'
 
 export const Context = createContext({})
 export const ReactSwal = withReactContent(Swal)
@@ -59,6 +60,7 @@ function App() {
           :
           <h1 className='text-2xl font-bold text-center'>Loading...</h1>
         }
+        <Footer />
         <BackToTop />
       </div>
     </Context.Provider>
