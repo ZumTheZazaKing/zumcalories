@@ -2,29 +2,39 @@ const express = require('express')
 const app = express()
 const http = require('http')
 const cors = require('cors')
-const fs = require('fs')
-const zlib = require('zlib')
+const { Server } = require("socket.io")
+const mysql = require('mysql');
 
 const PORT = 3001
-const FOOD_DATA_FILE_PATH = 'food_data.json'
 
 app.use(cors())
 
 const server = http.createServer(app)
 
-app.use((req, res, next) => {
-    res.set('Content-Type', 'text/html');
-    res.set('Content-Encoding', 'gzip');
-    next();
-});
+const io = new Server(server, {
+    cors: {
+        origin: "https://zumcalories.netlify.app",
+        methods: ["GET", "POST"]
+    }
+})
 
-app.get('/food', (req, res) => {
-    let data = fs.readFileSync(FOOD_DATA_FILE_PATH).toString();
-    const buf = Buffer.from(data, 'utf-8')
-    zlib.gzip(buf, function (_, result) {
-        res.status(200).send(result)
-    });
-});
+const conn = mysql.createPool({
+    host: "164.92.238.16",
+    port: "3306",
+    user: "freedb_zumthezazaking",
+    password: "Tterr&s5Br5GMS@",
+    database: "freedb_zumcalories"
+})
+
+io.on("connection", socket => {
+    socket.on("get_data", () => {
+        let selectSQL = `select * from food`
+        conn.query(selectSQL, (err, res, fields) => {
+            if (err) throw err;
+            socket.emit("load_data", res)
+        })
+    })
+})
 
 server.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}`)

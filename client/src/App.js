@@ -1,7 +1,7 @@
 import { createContext, useMemo, useState, useEffect } from 'react'
 import Swal from 'sweetalert2'
 import withReactContent from 'sweetalert2-react-content'
-import data from './assets/food_data.json'
+import io from 'socket.io-client'
 
 import Header from './components/Main/Header'
 import Searchbar from './components/Main/Searchbar'
@@ -11,11 +11,14 @@ import BackToTop from './components/BackToTop'
 export const Context = createContext({})
 export const ReactSwal = withReactContent(Swal)
 
+const socket = io.connect("https://zumcalories.onrender.com")
+
 function App() {
 
   const [defaultItems, setDefaultItems] = useState([])
   const [items, setItems] = useState([])
   const [searchQuery, setSearchQuery] = useState("")
+  const [fetchingData, setFetchingData] = useState(true)
 
 
   useEffect(() => {
@@ -27,16 +30,21 @@ function App() {
     setItems([...temp])
   }, [searchQuery])
 
-  const getFoodData = async () => {
-    setDefaultItems(data)
-    setItems(data)
-  }
 
   useEffect(() => {
-    getFoodData()
+    socket.emit("get_data")
   }, [])
 
+  useEffect(() => {
+    socket.on("load_data", data => {
+      setItems(data)
+      setDefaultItems(data)
+      setFetchingData(false)
+    })
+  }, [socket])
+
   const memo = useMemo(() => ({
+    socket,
     items, setItems,
     searchQuery, setSearchQuery
   }), [items, searchQuery])
@@ -46,7 +54,11 @@ function App() {
       <div className="App space-y-5">
         <Header />
         <Searchbar />
-        <List />
+        {!fetchingData ?
+          <List />
+          :
+          <h1 className='text-2xl font-bold text-center'>Loading...</h1>
+        }
         <BackToTop />
       </div>
     </Context.Provider>

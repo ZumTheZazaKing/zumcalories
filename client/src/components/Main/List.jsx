@@ -15,10 +15,9 @@ const List = () => {
             html: <FoodItem data={data} />
         })
     }
-    //${item.name.toLowerCase().includes(searchQuery.trim("").toLowerCase()) ? "" : "hidden"}
 
     return (
-        <div className="w-[90vw] sm:w-[70vw] mx-auto text-center">
+        <div className="w-[90vw] sm:w-[70vw] mx-auto text-center space-y-3">
             {searchQuery.trim() === "" ?
                 <div className="sticky top-0 sm:flex sm:flex-wrap space-x-1 justify-center bg-slate-800 text-white max-w-full overflow-auto">
                     {indexes.map((index, i) => {
